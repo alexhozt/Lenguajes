@@ -6,4 +6,4 @@ Desarrollo de simulaciones.
 
 Resolución de retos algorítmicos (ej., LeetCode).
 
-Implementación de algoritmos como Machine Learnin.
+Implementación de algoritmos como Machine Learning.
