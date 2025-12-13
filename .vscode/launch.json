@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/alexi/OneDrive/Documentos/GitHub/INFRACHECK_WEB_T.INTEGRACION2/Lenguajes/C/C-CodingLeetCode",
-      "program": "c:/Users/alexi/OneDrive/Documentos/GitHub/INFRACHECK_WEB_T.INTEGRACION2/Lenguajes/C/C-CodingLeetCode/build/Debug/outDebug",
+      "cwd": "c:/Users/alexi/OneDrive/Documentos/GitHub/Lenguajes/C/C-CodingLeetCode",
+      "program": "c:/Users/alexi/OneDrive/Documentos/GitHub/Lenguajes/C/C-CodingLeetCode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
