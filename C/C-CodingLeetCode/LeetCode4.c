@@ -30,7 +30,7 @@ int longestCommonPrefix(char ** strs, int strsSize) {
             }
         }
 
-        index++; // avanzar al siguiente caracter
+        index++; // avanza al siguiente caracter, ejemplo: 'f'->'l'->'o'->'w'->'e'->'r'
 
     }
 
