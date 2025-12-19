@@ -33,7 +33,7 @@ int isValid(char * s) {
         } else {
             if (top == -1) return 0;
             
-            char topChar = stack[top--];
+            char topChar = stack[top--]; // desapilamos y comparamos 
             
             if ((c == ')' && topChar != '(') ||
                 (c == '}' && topChar != '{') ||
