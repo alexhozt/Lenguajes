@@ -23,26 +23,27 @@ de los parentesis abiertos y asegurarme de que se cierren en orden correcto.
 
 int isValid(char * s) {
     char stack[100]; // pila para almacenar los caracteres
-    int top = -1; // indice del tope de la pila
-
-    for(int i = 0; s[i] != '\0' ; i++) { // recorrer la cadena. s[i] != '\0' significa hasta el final de la cadena, s[i] es el caracter en la posicion i
+    int top = -1;
+    
+    for(int i = 0; s[i] != '\0'; i++) {
         char c = s[i];
-
+        
         if (c == '(' || c == '{' || c == '[') {
-            stack[++top] = c; // push a la pila
+            stack[++top] = c;
         } else {
-            if (top == -1) return 0; // pila vacia, no hay corchete de apertura
-
-            char topChar = stack[top--]; // pop de la pila
-
+            if (top == -1) return 0;
+            
+            char topChar = stack[top--];
+            
             if ((c == ')' && topChar != '(') ||
                 (c == '}' && topChar != '{') ||
                 (c == ']' && topChar != '[')) {
-                return 0; // corchetes no coinciden
+                return 0; // delimitadores no coinciden
             }
         }
-
     }
+    
+    return (top == -1); // La pila debe estar vacía al final
 }
 
 int main() {
