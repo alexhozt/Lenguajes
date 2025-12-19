@@ -19,7 +19,7 @@ int longestCommonPrefix(char ** strs, int strsSize) {
 
     if (strsSize == 0) return 0;
 
-    int index = 0; // indice para recorrer los caracteres, ejemplo: "flower", "flow", "flight"
+    int index = 0; 
 
     while(1) {
         char currentChar = strs[0][index]; // toma el caracter en posicion index del primer string como referencia, ejemplo: 'f', 'l', 'o', 'w', 'e', 'r'
