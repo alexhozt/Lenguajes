@@ -2,4 +2,4 @@ En esta sección encontrarás diversos ejemplos, proyectos pequeños, algoritmos
 
 ENG: In this section you will find diverse examples, small projects, algorithms, and solutions to challenges from Leetcode. The languages used here are: C, C++, Python, and Java. You can use the codes written here to learn more about these programming languages and for those who wish to improve and learn. I hope this material is useful to you. Thank you.
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ6NnNvMG0xNmN4NDN6d2RlaWFhZ3l5Z2RxemZwb2N5N2V0ZXQ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhwd29tdm45Z2t3cGNxbG1ncmtyMGJmMmlkbjd1MzMwOTc3MTNldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grrQBoGInMoaoBoSuV/giphy.gif)" width="500"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhwd29tdm45Z2t3cGNxbG1ncmtyMGJmMmlkbjd1MzMwOTc3MTNldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grrQBoGInMoaoBoSuV/giphy.gif" width="500"/>
