@@ -36,7 +36,7 @@ int strStr(char* haystack, char* needle) {
     
     // Solo buscar hasta donde needle puede caber
     for (int i = 0; i <= h_len - n_len; i++) { // ¿por que hasta h_len - n_len? porque si needle es mas largo que el resto de haystack, no puede caber
-        int j = 0;
+        int j = 0; // indice para needle
         while (j < n_len && haystack[i + j] == needle[j]) { // haystack[i + j] es el caracter actual de haystack, needle[j] es el caracter actual de needle
             j++;
         }
@@ -45,7 +45,7 @@ int strStr(char* haystack, char* needle) {
         }
     }
     
-    return -1;
+    return -1; // no se encontro needle en haystack
 }
 
 int main() {
@@ -54,7 +54,7 @@ int main() {
     
     int index = strStr(haystack, needle);
     
-    if (index != -1) {
+    if (index != -1) { 
         printf("La primera aparición de '%s' en '%s' está en el índice: %d\n", needle, haystack, index);
     } else {
         printf("'%s' no se encuentra en '%s'\n", needle, haystack);
@@ -95,5 +95,32 @@ n_len = 5: needle[5] = '\0' → ¡PARA!
 
 Resultado: n_len = 5
 
+
+el for (int i = 0; i <= h_len - n_len; i++) {
+    int j = 0; // indice para needle
+    while (j < n_len && haystack[i + j] == needle[j]) { // haystack[i + j] es el caracter actual de haystack, needle[j] es el caracter actual de needle
+        j++;
+    }
+    if (j == n_len) { 
+        return i; // se encontro needle en haystack, devolver el indice inicial
+    }
+}
+
+proceso:
+i = 0: haystack[0 + 0] = 'm' != needle[0] = 'i' → no entra al while
+i = 1: haystack[1 + 0] = 'i' == needle
+[0] = 'i' → j = 1
+        haystack[1 + 1] = 's' == needle[1] = 's' → j = 2
+        haystack[1 + 2] = 's' == needle[2] = 's' → j = 3
+        haystack[1 + 3] = 'i' == needle[3] = 'i' → j = 4
+        haystack[1 + 4] = 's' != needle[4] = 'p' → sale del while
+    i = 2: haystack[2 + 0] = 's' != needle[0] = 'i' → no entra al while
+    i = 3: haystack[3 + 0] = 's' != needle[0] = 'i' → no entra al while
+    i = 4: haystack[4 + 0] = 'i' == needle[0] = 'i' → j = 1
+        haystack[4 + 1] = 's' == needle[1] = 's' → j = 2
+        haystack[4 + 2] = 's' == needle[2] = 's' → j = 3
+        haystack[4 + 3] = 'i' == needle[3] = 'i' → j = 4
+        haystack[4 + 4] = 'p' == needle[4] = 'p' → j = 5
+    Ahora j == n_len (5), se encontró needle en haystack en el índice i = 4, devuelve 4.
 
 */
