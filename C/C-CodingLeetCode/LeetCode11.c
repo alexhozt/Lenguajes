@@ -34,7 +34,7 @@ int lengthOfLastWord(char *s) {
         i--;
     }
 
-    // Contar la longitud de la ultima palabra
+    // Contar la longitud de la ultima palabra.
     while (i >= 0 && s[i] != ' ') {
         Lenght++;
         i--;

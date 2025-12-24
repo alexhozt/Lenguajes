@@ -30,7 +30,7 @@ int searchInsert(int* nums, int numsSize, int target) {
         } else if(nums[mid] < target) {
             left = mid + 1; // buscar en la mitad derecha
         } else {
-            right = mid - 1; // buscar en la mitad izquierda
+            right = mid - 1; // buscar en la mitad izquierda.
         }
     }
 
