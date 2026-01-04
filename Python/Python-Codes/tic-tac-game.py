@@ -1,4 +1,4 @@
-# Initial board
+# Codigo de prueba, en modificacion 
 board = [" " for _ in range(9)]
 
 def display_board():
@@ -10,7 +10,6 @@ def display_board():
     print("\n")
 
 def check_winner(player):
-    # Rows, columns, and diagonals
     winning_combinations = [
         [0,1,2], [3,4,5], [6,7,8],  # Rows
         [0,3,6], [1,4,7], [2,5,8],  # Columns
