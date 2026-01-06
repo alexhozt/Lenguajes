@@ -1,0 +1,1001 @@
+show_id,type,title,director,cast,country,date_added,release_year,duration,description,genre
+s00000,Movie,Urban Legends 12,nan,"Actor C, Actor D, Actor E",Mexico,12/1/2012,1992,82,A heartwarming story of friendship.,"Horror, Comedy, Sci-Fi"
+s00001,TV Show,Medical Heroes,Maria Garcia,"Actor B, Actor E",United States,1/8/2012,1969,5 Season(s),A documentary about nature.,"Documentary, Thriller"
+s00002,TV Show,Space Explorers,nan,"Actor D, Actor C, Actor A, Actor E",France,9/19/2015,1978,1 Season(s),A documentary about nature.,Romance
+s00003,Movie,Final Frontier 1800,Maria Garcia,Actor B,Germany,12/1/2021,1978,100,A romantic tale set in a distant land.,"Action, Children & Family, Romance"
+s00004,Movie,Starlight Journey 1751,Maria Garcia,"Actor D, Actor C, Actor E",Germany,4/5/2017,2000,85,An intense drama about life choices.,"Drama, Comedy, Action"
+s00005,Movie,Ocean Mysteries 374,Christopher Nolan,"Actor C, Actor E, Actor D, Actor B",United States,7/23/2021,2011,160,A heartwarming story of friendship.,"Drama, Children & Family"
+s00006,Movie,Wild Expedition 710,Jane Doe,"Actor B, Actor E, Actor A",India,11/21/2013,1997,109,A romantic tale set in a distant land.,Drama
+s00007,TV Show,Space Explorers,James Cameron,"Actor B, Actor E, Actor C",Australia,2/27/2018,2000,4 Season(s),A thrilling adventure about discovery.,"Action, Drama"
+s00008,Movie,Hidden Truth 1113,Jane Doe,"Actor B, Actor E, Actor C",United Kingdom,4/26/2010,1999,138,A family movie for all ages.,"Sci-Fi, Drama, Action"
+s00009,TV Show,Beyond Borders,nan,"Actor B, Actor E",India,2/1/2020,2020,6 Season(s),A romantic tale set in a distant land.,"Action, Drama"
+s00010,Movie,Urban Legends 1595,Jane Doe,,United States,7/9/2022,1970,86,An action-packed thriller.,"Documentary, Comedy"
+s00011,TV Show,Tech Wars,John Smith,Actor A,India,12/15/2011,2019,8 Season(s),A mystery that will keep you guessing.,Thriller
+s00012,TV Show,Mystery Valley,Jane Doe,"Actor E, Actor A",South Korea,9/23/2019,2022,3 Season(s),An action-packed thriller.,"Documentary, Horror"
+s00013,Movie,Digital Ghost 1562,Christopher Nolan,"Actor C, Actor A",India,9/18/2021,2010,85,A heartwarming story of friendship.,"Comedy, Action, Drama"
+s00014,Movie,Urban Legends 1312,John Smith,"Actor C, Actor A, Actor B",Canada,3/1/2013,1991,173,A sci-fi exploration of future technology.,"Comedy, Sci-Fi, Action"
+s00015,Movie,Future Shock 1040,Steven Spielberg,Actor A,India,10/16/2015,1991,152,An action-packed thriller.,"Comedy, Action"
+s00016,Movie,Secret Agent X 401,Steven Spielberg,Actor D,India,4/6/2015,1974,89,A mystery that will keep you guessing.,"Documentary, Sci-Fi, Drama"
+s00017,Movie,Secret Agent X 1806,Christopher Nolan,"Actor C, Actor E, Actor B, Actor A",United States,3/20/2017,1989,90,An action-packed thriller.,"Comedy, Romance, Documentary"
+s00018,Movie,Urban Legends 629,Jane Doe,"Actor E, Actor D, Actor B, Actor A",United States,1/20/2021,1990,177,A romantic tale set in a distant land.,"Sci-Fi, Children & Family, Thriller"
+s00019,Movie,Secret Agent X 137,nan,"Actor A, Actor C, Actor E",India,12/14/2019,1993,85,A mystery that will keep you guessing.,"Children & Family, Thriller"
+s00020,Movie,Final Frontier 688,James Cameron,"Actor D, Actor B, Actor E, Actor A",Japan,4/28/2020,1994,87,A family movie for all ages.,Drama
+s00021,Movie,Time Paradox 1522,Jane Doe,"Actor D, Actor E, Actor A",India,9/26/2012,1992,135,A sci-fi exploration of future technology.,"Drama, Thriller"
+s00022,Movie,Hidden Truth 1247,David Lee,"Actor A, Actor D, Actor B, Actor C",United Kingdom,5/18/2019,2010,84,A romantic tale set in a distant land.,Drama
+s00023,Movie,Broken Chains 935,Steven Spielberg,,United Kingdom,11/10/2015,1979,86,A thrilling adventure about discovery.,"Action, Romance"
+s00024,Movie,Cyber Revolution 402,nan,,United States,4/19/2015,1967,177,A thrilling adventure about discovery.,"Action, Horror, Comedy"
+s00025,TV Show,Family Ties,Maria Garcia,Actor C,Mexico,12/19/2018,1991,4 Season(s),A heartwarming story of friendship.,"Comedy, Action"
+s00026,Movie,Future Shock 615,John Smith,Actor A,India,2/23/2018,1961,74,A comedy that will make you laugh.,Children & Family
+s00027,Movie,Starlight Journey 1550,Maria Garcia,"Actor A, Actor B, Actor C, Actor E",United States,,1987,92,An action-packed thriller.,"Action, Romance"
+s00028,Movie,Cyber Revolution 620,Steven Spielberg,Actor D,United States,11/26/2022,1995,86,A mystery that will keep you guessing.,Thriller
+s00029,Movie,Digital Ghost 1122,David Lee,Actor A,nan,3/2/2013,1999,77,A romantic tale set in a distant land.,"Action, Drama"
+s00030,Movie,Cyber Revolution 805,Jane Doe,Actor C,United States,6/5/2011,1968,88,A thrilling adventure about discovery.,"Sci-Fi, Drama"
+s00031,Movie,Neon Nights 936,nan,"Actor B, Actor C, Actor D",Australia,6/5/2013,2009,126,A sci-fi exploration of future technology.,"Drama, Romance, Children & Family"
+s00032,Movie,Silent Forest 39,Steven Spielberg,"Actor A, Actor B, Actor D",United States,9/22/2022,1961,91,A comedy that will make you laugh.,Action
+s00033,TV Show,Legal Minds,Maria Garcia,Actor D,Mexico,,2009,2 Season(s),A sci-fi exploration of future technology.,"Children & Family, Horror, Action"
+s00034,TV Show,Space Explorers,Maria Garcia,,South Korea,5/26/2010,2017,3 Season(s),An action-packed thriller.,Drama
+s00035,TV Show,Mystery Valley,Christopher Nolan,,Canada,8/27/2020,1970,2 Season(s),An intense drama about life choices.,"Children & Family, Action, Drama"
+s00036,Movie,Desert Winds 1373,Jane Doe,"Actor D, Actor B, Actor C",United States,11/19/2018,2021,89,A comedy that will make you laugh.,"Drama, Romance, Action"
+s00037,Movie,Digital Ghost 722,nan,Actor A,United States,8/27/2013,1984,115,A documentary about nature.,"Drama, Thriller, Children & Family"
+s00038,Movie,The Last Adventure 16,nan,"Actor E, Actor D",India,3/20/2017,1998,86,An intense drama about life choices.,Romance
+s00039,Movie,Digital Ghost 1450,Jane Doe,"Actor A, Actor D",India,4/6/2011,1987,92,An intense drama about life choices.,Sci-Fi
+s00040,Movie,Silent Forest 894,nan,,United States,5/19/2020,1964,86,An action-packed thriller.,Comedy
+s00041,Movie,Moonlight Dreams 311,nan,"Actor A, Actor D, Actor E",United States,9/17/2010,2005,93,A sci-fi exploration of future technology.,"Thriller, Action"
+s00042,Movie,Cyber Revolution 1194,nan,"Actor B, Actor E, Actor D, Actor A",Canada,6/23/2016,1961,119,A family movie for all ages.,"Documentary, Sci-Fi, Horror"
+s00043,TV Show,Tech Wars,Steven Spielberg,Actor A,India,11/1/2012,2010,7 Season(s),A thrilling adventure about discovery.,"Documentary, Romance, Comedy"
+s00044,Movie,Digital Ghost 1165,nan,Actor C,United States,10/8/2011,1961,166,A mystery that will keep you guessing.,"Action, Thriller, Documentary"
+s00045,Movie,Hidden Truth 1440,Jane Doe,Actor E,United States,12/25/2016,2021,135,A mystery that will keep you guessing.,"Action, Drama, Thriller"
+s00046,Movie,Cyber Revolution 1915,nan,Actor D,nan,1/19/2017,1991,86,A romantic tale set in a distant land.,"Comedy, Thriller"
+s00047,Movie,Secret Agent X 814,John Smith,Actor C,India,,1995,114,A romantic tale set in a distant land.,"Action, Romance, Drama"
+s00048,Movie,Broken Chains 29,Steven Spielberg,,Germany,11/19/2018,1969,90,An intense drama about life choices.,Documentary
+s00049,Movie,Starlight Journey 477,nan,Actor B,India,8/12/2019,1990,87,An intense drama about life choices.,Drama
+s00050,TV Show,Medical Heroes,Jane Doe,Actor A,United States,1/26/2016,1978,2 Season(s),A family movie for all ages.,"Drama, Action"
+s00051,TV Show,Undercover,nan,"Actor B, Actor C",United Kingdom,6/17/2021,1993,8 Season(s),An action-packed thriller.,Horror
+s00052,TV Show,Beyond Borders,nan,"Actor E, Actor B, Actor D, Actor C",United Kingdom,10/17/2011,2015,3 Season(s),A thrilling adventure about discovery.,"Documentary, Sci-Fi, Drama"
+s00053,TV Show,Mystery Valley,David Lee,"Actor A, Actor B",Australia,8/13/2017,2018,6 Season(s),A mystery that will keep you guessing.,"Drama, Children & Family, Action"
+s00054,Movie,Wild Expedition 1464,Steven Spielberg,"Actor D, Actor B, Actor A",France,,1987,89,A family movie for all ages.,"Thriller, Documentary, Action"
+s00055,TV Show,Beyond Borders,David Lee,,United States,2/5/2010,1995,7 Season(s),A mystery that will keep you guessing.,"Sci-Fi, Drama, Action"
+s00056,Movie,Urban Legends 377,Christopher Nolan,"Actor E, Actor B",nan,10/14/2014,1968,137,A documentary about nature.,"Thriller, Comedy"
+s00057,Movie,Future Shock 926,Christopher Nolan,"Actor B, Actor C, Actor E, Actor A",United Kingdom,9/2/2010,1971,139,A romantic tale set in a distant land.,Action
+s00058,Movie,Secret Agent X 340,nan,Actor A,nan,7/24/2013,1989,114,A documentary about nature.,Documentary
+s00059,Movie,Ocean Mysteries 577,Quentin Tarantino,,nan,12/12/2022,2015,156,A thrilling adventure about discovery.,Documentary
+s00060,Movie,Starlight Journey 3,Jane Doe,"Actor A, Actor D",United States,10/16/2013,1999,87,A thrilling adventure about discovery.,Sci-Fi
+s00061,Movie,Digital Ghost 1166,nan,"Actor D, Actor A, Actor E, Actor B",United Kingdom,5/10/2021,1964,159,An action-packed thriller.,"Comedy, Drama, Action"
+s00062,TV Show,Space Explorers,Jane Doe,"Actor A, Actor E",India,,2010,7 Season(s),A comedy that will make you laugh.,"Action, Children & Family"
+s00063,Movie,Hidden Truth 324,James Cameron,"Actor C, Actor E, Actor A, Actor B",France,1/26/2012,1968,103,An intense drama about life choices.,"Drama, Horror, Thriller"
+s00064,Movie,Hidden Truth 1982,nan,Actor C,India,11/27/2019,1998,89,A romantic tale set in a distant land.,"Romance, Comedy"
+s00065,Movie,Ocean Mysteries 1689,Steven Spielberg,"Actor A, Actor D, Actor C, Actor B",nan,6/20/2020,1991,114,A family movie for all ages.,"Children & Family, Romance"
+s00066,Movie,Wild Expedition 705,nan,Actor D,Spain,7/25/2014,2010,128,An action-packed thriller.,"Action, Romance, Comedy"
+s00067,TV Show,Undercover,nan,"Actor E, Actor B, Actor C",United States,11/5/2014,1978,1 Season(s),A family movie for all ages.,Sci-Fi
+s00068,Movie,Lost Kingdom 1999,nan,"Actor B, Actor E",United States,2/3/2015,2018,150,A comedy that will make you laugh.,"Comedy, Sci-Fi, Action"
+s00069,TV Show,Mystery Valley,David Lee,"Actor C, Actor A, Actor E, Actor D",France,8/24/2011,1987,8 Season(s),An action-packed thriller.,"Comedy, Sci-Fi"
+s00070,TV Show,Legal Minds,Jane Doe,"Actor C, Actor A",United States,5/3/2015,1978,6 Season(s),A sci-fi exploration of future technology.,"Action, Thriller, Sci-Fi"
+s00071,Movie,Starlight Journey 1913,James Cameron,"Actor B, Actor E",Germany,3/3/2014,1990,89,A mystery that will keep you guessing.,"Documentary, Drama, Romance"
+s00072,Movie,Desert Winds 1164,nan,"Actor E, Actor A",United Kingdom,12/28/2021,1969,92,An intense drama about life choices.,Sci-Fi
+s00073,TV Show,Family Ties,nan,"Actor A, Actor D",United Kingdom,4/4/2019,1962,7 Season(s),An intense drama about life choices.,"Action, Romance, Comedy"
+s00074,TV Show,Tech Wars,Maria Garcia,"Actor E, Actor C",United States,8/17/2019,1977,5 Season(s),An intense drama about life choices.,Documentary
+s00075,TV Show,Undercover,Quentin Tarantino,"Actor D, Actor E, Actor A",Spain,,1979,7 Season(s),A documentary about nature.,"Drama, Documentary"
+s00076,TV Show,Undercover,Steven Spielberg,,United States,,1981,4 Season(s),A romantic tale set in a distant land.,Comedy
+s00077,Movie,Ocean Mysteries 939,Christopher Nolan,"Actor E, Actor D, Actor A, Actor C",Germany,3/10/2021,1974,91,An action-packed thriller.,"Sci-Fi, Documentary, Thriller"
+s00078,Movie,Mountain Echo 807,nan,"Actor C, Actor E, Actor A, Actor B",India,5/16/2013,1980,177,An action-packed thriller.,"Thriller, Documentary, Sci-Fi"
+s00079,Movie,Lost Kingdom 1368,John Smith,,Germany,6/26/2013,2011,91,A documentary about nature.,Romance
+s00080,TV Show,Family Ties,nan,,Canada,10/9/2016,1999,6 Season(s),A thrilling adventure about discovery.,"Thriller, Action"
+s00081,Movie,Digital Ghost 226,nan,"Actor C, Actor E",United States,3/24/2019,1996,89,A romantic tale set in a distant land.,"Documentary, Drama, Action"
+s00082,Movie,Secret Agent X 564,Steven Spielberg,,Germany,1/2/2018,1990,128,A comedy that will make you laugh.,Comedy
+s00083,Movie,Desert Winds 1595,David Lee,,United States,7/16/2018,2008,147,A comedy that will make you laugh.,"Children & Family, Action, Drama"
+s00084,Movie,Time Paradox 1684,John Smith,"Actor B, Actor A, Actor E, Actor D",India,2/19/2015,1980,91,An intense drama about life choices.,"Drama, Romance, Thriller"
+s00085,Movie,Final Frontier 1517,Maria Garcia,"Actor D, Actor A, Actor C, Actor B",United States,,1993,132,An action-packed thriller.,Thriller
+s00086,TV Show,Medical Heroes,nan,,Germany,10/20/2014,1998,5 Season(s),A heartwarming story of friendship.,"Comedy, Drama, Action"
+s00087,Movie,Future Shock 1131,nan,,Mexico,8/5/2021,1996,88,A thrilling adventure about discovery.,Thriller
+s00088,TV Show,Tech Wars,nan,,Canada,12/26/2021,1990,7 Season(s),A family movie for all ages.,Action
+s00089,Movie,Echoes of Yesterday 753,James Cameron,"Actor E, Actor D, Actor C, Actor A",India,6/2/2017,1999,101,An intense drama about life choices.,"Thriller, Comedy"
+s00090,Movie,Cyber Revolution 1912,Christopher Nolan,"Actor B, Actor D",Germany,7/10/2022,1981,164,A comedy that will make you laugh.,"Action, Documentary"
+s00091,TV Show,Medical Heroes,nan,"Actor B, Actor C, Actor E",United States,5/12/2015,1995,5 Season(s),A comedy that will make you laugh.,"Drama, Children & Family"
+s00092,TV Show,Undercover,Steven Spielberg,"Actor D, Actor C, Actor A",Mexico,6/19/2015,2003,3 Season(s),A romantic tale set in a distant land.,Thriller
+s00093,Movie,Ocean Mysteries 54,Jane Doe,"Actor A, Actor B, Actor D, Actor E",United States,3/23/2012,1986,87,A thrilling adventure about discovery.,"Children & Family, Sci-Fi, Documentary"
+s00094,TV Show,Legal Minds,Christopher Nolan,"Actor B, Actor A, Actor D, Actor C",nan,10/13/2011,2001,2 Season(s),A thrilling adventure about discovery.,Documentary
+s00095,Movie,Starlight Journey 1545,David Lee,"Actor C, Actor A, Actor E, Actor D",Spain,10/28/2012,2022,146,A heartwarming story of friendship.,"Drama, Thriller"
+s00096,Movie,Cyber Revolution 1044,Steven Spielberg,"Actor E, Actor D",Germany,9/27/2016,1998,62,A comedy that will make you laugh.,"Drama, Children & Family, Horror"
+s00097,Movie,Starlight Journey 1597,David Lee,,France,4/7/2020,2000,73,A mystery that will keep you guessing.,Comedy
+s00098,Movie,Future Shock 419,nan,"Actor B, Actor C, Actor A",India,8/9/2017,1996,117,A romantic tale set in a distant land.,"Comedy, Thriller, Action"
+s00099,Movie,Hidden Truth 850,Christopher Nolan,"Actor D, Actor C, Actor B",Canada,3/21/2014,1974,85,An action-packed thriller.,"Comedy, Action, Romance"
+s00100,Movie,Starlight Journey 216,Christopher Nolan,Actor E,United States,5/4/2021,1990,137,A mystery that will keep you guessing.,"Action, Horror"
+s00101,Movie,Cyber Revolution 160,Jane Doe,"Actor E, Actor D",Japan,5/14/2015,1990,118,A sci-fi exploration of future technology.,"Comedy, Action"
+s00102,Movie,Cyber Revolution 781,nan,,Japan,2/4/2019,2007,131,A romantic tale set in a distant land.,Documentary
+s00103,Movie,Urban Legends 1113,Quentin Tarantino,"Actor A, Actor C, Actor B",South Korea,1/18/2020,1969,93,A family movie for all ages.,Action
+s00104,TV Show,Mystery Valley,Jane Doe,"Actor A, Actor C, Actor B",India,11/16/2019,1992,3 Season(s),An action-packed thriller.,"Drama, Action"
+s00105,Movie,Desert Winds 1934,Christopher Nolan,"Actor D, Actor C",United States,7/26/2020,1964,92,A thrilling adventure about discovery.,"Comedy, Romance"
+s00106,Movie,Ocean Mysteries 1634,nan,"Actor A, Actor B",United Kingdom,12/8/2015,1976,112,An action-packed thriller.,"Horror, Drama, Sci-Fi"
+s00107,TV Show,Family Ties,John Smith,Actor C,France,5/14/2021,1976,3 Season(s),A romantic tale set in a distant land.,"Comedy, Sci-Fi"
+s00108,Movie,Echoes of Yesterday 952,nan,"Actor B, Actor D, Actor A",United States,9/10/2013,2020,68,A comedy that will make you laugh.,"Romance, Comedy"
+s00109,Movie,Cyber Revolution 635,nan,"Actor D, Actor B, Actor E, Actor A",United States,6/19/2021,1996,155,A sci-fi exploration of future technology.,Thriller
+s00110,Movie,Echoes of Yesterday 1219,Quentin Tarantino,Actor D,Australia,6/27/2014,2009,62,A thrilling adventure about discovery.,"Comedy, Horror, Action"
+s00111,Movie,Moonlight Dreams 1356,nan,"Actor B, Actor E, Actor C",Canada,9/16/2017,1994,89,A mystery that will keep you guessing.,"Romance, Drama"
+s00112,TV Show,Tech Wars,Christopher Nolan,"Actor B, Actor A",India,5/21/2015,1961,8 Season(s),A documentary about nature.,"Documentary, Children & Family, Thriller"
+s00113,TV Show,Mystery Valley,nan,Actor E,United Kingdom,6/9/2021,1991,6 Season(s),A sci-fi exploration of future technology.,"Documentary, Sci-Fi, Children & Family"
+s00114,Movie,Urban Legends 40,David Lee,,Spain,6/19/2016,2003,83,A heartwarming story of friendship.,Action
+s00115,TV Show,Mystery Valley,nan,"Actor A, Actor E",United States,9/15/2013,1985,5 Season(s),A documentary about nature.,Comedy
+s00116,TV Show,Undercover,Christopher Nolan,"Actor E, Actor B, Actor A, Actor C",Spain,2/10/2011,1974,3 Season(s),A family movie for all ages.,Comedy
+s00117,Movie,Neon Nights 955,Steven Spielberg,,United States,3/7/2017,1995,87,A mystery that will keep you guessing.,"Romance, Drama"
+s00118,TV Show,Tech Wars,Jane Doe,"Actor C, Actor A, Actor D, Actor B",South Korea,,1966,2 Season(s),A family movie for all ages.,Romance
+s00119,Movie,Urban Legends 38,Jane Doe,"Actor C, Actor B, Actor D, Actor A",India,12/22/2010,1992,122,An action-packed thriller.,Drama
+s00120,TV Show,Space Explorers,Quentin Tarantino,"Actor C, Actor A, Actor E",India,,2005,2 Season(s),A comedy that will make you laugh.,"Romance, Action, Drama"
+s00121,TV Show,Family Ties,Jane Doe,"Actor E, Actor A, Actor D, Actor C",Japan,6/24/2016,2004,2 Season(s),An action-packed thriller.,"Comedy, Action, Horror"
+s00122,Movie,Ocean Mysteries 1200,Steven Spielberg,"Actor A, Actor C, Actor B, Actor D",Japan,,1995,93,A comedy that will make you laugh.,Drama
+s00123,Movie,Hidden Truth 454,John Smith,,United States,6/8/2013,1962,90,An intense drama about life choices.,Drama
+s00124,Movie,Ocean Mysteries 1340,nan,"Actor D, Actor E, Actor C",Germany,5/21/2017,1987,178,An intense drama about life choices.,Action
+s00125,Movie,Wild Expedition 973,John Smith,"Actor D, Actor C",United States,10/14/2016,2008,92,A family movie for all ages.,"Documentary, Thriller"
+s00126,TV Show,Beyond Borders,Christopher Nolan,,Mexico,6/7/2013,2000,8 Season(s),A heartwarming story of friendship.,Action
+s00127,TV Show,Undercover,John Smith,"Actor C, Actor B, Actor D",Australia,7/12/2011,1973,3 Season(s),A family movie for all ages.,"Romance, Documentary"
+s00128,Movie,Digital Ghost 593,Christopher Nolan,"Actor C, Actor D, Actor A",United Kingdom,4/19/2010,1962,161,An intense drama about life choices.,"Documentary, Comedy"
+s00129,Movie,Hidden Truth 1064,nan,"Actor A, Actor E, Actor C, Actor B",Australia,7/27/2012,1983,63,A documentary about nature.,Comedy
+s00130,Movie,Digital Ghost 224,Steven Spielberg,"Actor E, Actor A, Actor C",United Kingdom,12/8/2013,1967,163,A documentary about nature.,"Horror, Drama"
+s00131,Movie,Final Frontier 698,nan,,United States,3/5/2018,1992,76,A heartwarming story of friendship.,"Romance, Comedy, Thriller"
+s00132,Movie,Cyber Revolution 1592,nan,"Actor D, Actor C, Actor B",nan,10/15/2021,1973,73,A heartwarming story of friendship.,Drama
+s00133,Movie,Time Paradox 1890,nan,"Actor B, Actor E, Actor A, Actor C",France,4/8/2019,1997,86,A heartwarming story of friendship.,Action
+s00134,TV Show,Space Explorers,David Lee,,India,1/13/2014,2016,3 Season(s),A family movie for all ages.,Action
+s00135,Movie,Digital Ghost 1773,nan,Actor A,United Kingdom,5/8/2020,1994,92,A mystery that will keep you guessing.,"Drama, Romance"
+s00136,Movie,The Last Adventure 1286,nan,"Actor E, Actor C, Actor D, Actor B",United Kingdom,12/14/2017,1992,69,A romantic tale set in a distant land.,"Romance, Action, Horror"
+s00137,TV Show,Space Explorers,David Lee,"Actor B, Actor E, Actor A",nan,11/20/2013,1987,1 Season(s),A thrilling adventure about discovery.,"Action, Comedy"
+s00138,Movie,Final Frontier 336,Maria Garcia,,United States,5/13/2020,1992,177,A heartwarming story of friendship.,Comedy
+s00139,TV Show,Space Explorers,David Lee,"Actor D, Actor A",United Kingdom,10/12/2018,2018,1 Season(s),A thrilling adventure about discovery.,Thriller
+s00140,TV Show,Beyond Borders,Maria Garcia,,India,1/16/2017,1995,4 Season(s),A mystery that will keep you guessing.,"Action, Documentary"
+s00141,Movie,The Last Adventure 571,David Lee,"Actor D, Actor C, Actor B, Actor A",India,1/19/2017,1971,83,A romantic tale set in a distant land.,"Action, Comedy"
+s00142,Movie,Wild Expedition 1705,John Smith,"Actor D, Actor C, Actor B",India,8/24/2018,1972,167,A heartwarming story of friendship.,"Romance, Thriller"
+s00143,Movie,Digital Ghost 363,Quentin Tarantino,Actor D,United States,3/24/2019,2016,68,A heartwarming story of friendship.,"Documentary, Thriller"
+s00144,Movie,Digital Ghost 1369,Steven Spielberg,,United States,7/13/2017,1991,158,A heartwarming story of friendship.,Action
+s00145,Movie,Future Shock 356,Christopher Nolan,"Actor D, Actor E",United States,6/23/2010,2015,95,A documentary about nature.,"Thriller, Drama, Children & Family"
+s00146,Movie,Mountain Echo 700,James Cameron,"Actor D, Actor C, Actor E, Actor A",Mexico,5/7/2014,2006,93,A mystery that will keep you guessing.,Sci-Fi
+s00147,Movie,Secret Agent X 133,Christopher Nolan,"Actor C, Actor D, Actor A",United States,6/23/2012,1980,128,A thrilling adventure about discovery.,"Sci-Fi, Action, Comedy"
+s00148,Movie,Neon Nights 557,Maria Garcia,"Actor B, Actor A, Actor E, Actor D",Germany,12/20/2011,1980,161,A comedy that will make you laugh.,"Horror, Sci-Fi"
+s00149,Movie,Final Frontier 1055,James Cameron,"Actor D, Actor A, Actor B, Actor C",Germany,11/26/2017,2012,94,A comedy that will make you laugh.,"Romance, Documentary, Thriller"
+s00150,TV Show,Legal Minds,nan,Actor B,Australia,5/7/2019,1960,3 Season(s),A mystery that will keep you guessing.,Documentary
+s00151,Movie,Future Shock 1418,Christopher Nolan,Actor C,South Korea,12/9/2015,1973,143,A heartwarming story of friendship.,Sci-Fi
+s00152,Movie,Neon Nights 1461,Quentin Tarantino,"Actor D, Actor E, Actor A, Actor B",United States,11/12/2013,1981,167,A comedy that will make you laugh.,"Action, Sci-Fi"
+s00153,Movie,Secret Agent X 1951,nan,"Actor B, Actor A",United States,5/9/2017,1970,94,A thrilling adventure about discovery.,Drama
+s00154,TV Show,Tech Wars,Maria Garcia,Actor E,India,4/20/2021,2021,7 Season(s),A comedy that will make you laugh.,"Romance, Horror, Sci-Fi"
+s00155,Movie,Desert Winds 1282,Christopher Nolan,"Actor D, Actor C, Actor A, Actor E",United States,8/21/2010,2022,147,A thrilling adventure about discovery.,"Drama, Thriller, Horror"
+s00156,Movie,Lost Kingdom 589,nan,"Actor B, Actor D",Spain,1/20/2020,1991,100,A heartwarming story of friendship.,"Comedy, Drama, Action"
+s00157,TV Show,Undercover,nan,,Japan,5/1/2017,1985,1 Season(s),A heartwarming story of friendship.,"Action, Horror"
+s00158,Movie,Silent Forest 295,Jane Doe,"Actor E, Actor B, Actor A",South Korea,3/12/2018,1969,61,A family movie for all ages.,"Comedy, Sci-Fi, Drama"
+s00159,TV Show,Tech Wars,Jane Doe,"Actor C, Actor A",United States,10/22/2015,1965,4 Season(s),An intense drama about life choices.,"Drama, Action, Horror"
+s00160,Movie,Digital Ghost 1070,nan,"Actor C, Actor A, Actor E, Actor B",Mexico,6/17/2020,2008,120,A documentary about nature.,"Drama, Romance, Action"
+s00161,Movie,Starlight Journey 1257,David Lee,"Actor A, Actor C",United States,8/17/2015,1973,89,A romantic tale set in a distant land.,Thriller
+s00162,Movie,Starlight Journey 360,Maria Garcia,"Actor A, Actor E, Actor C, Actor B",India,11/24/2011,1990,86,A romantic tale set in a distant land.,"Drama, Thriller, Children & Family"
+s00163,Movie,Moonlight Dreams 700,nan,"Actor E, Actor B",India,5/12/2016,2003,92,An action-packed thriller.,"Horror, Romance, Action"
+s00164,Movie,Digital Ghost 675,James Cameron,,Germany,5/18/2018,1996,167,A documentary about nature.,"Action, Documentary"
+s00165,TV Show,Space Explorers,John Smith,"Actor E, Actor B, Actor D",India,3/12/2014,1975,1 Season(s),A heartwarming story of friendship.,"Drama, Children & Family"
+s00166,Movie,Mountain Echo 467,James Cameron,,Mexico,5/6/2014,2003,89,A romantic tale set in a distant land.,"Sci-Fi, Action"
+s00167,Movie,Secret Agent X 586,nan,"Actor D, Actor C",Mexico,8/9/2019,1978,154,A thrilling adventure about discovery.,"Drama, Comedy"
+s00168,Movie,Echoes of Yesterday 1248,Maria Garcia,"Actor B, Actor D",South Korea,5/8/2014,1974,71,An action-packed thriller.,Sci-Fi
+s00169,Movie,Moonlight Dreams 1855,David Lee,"Actor E, Actor B, Actor D, Actor C",United States,3/17/2014,1991,168,A comedy that will make you laugh.,Action
+s00170,Movie,Urban Legends 1246,James Cameron,"Actor D, Actor A, Actor E, Actor C",South Korea,9/10/2014,2008,170,A comedy that will make you laugh.,"Action, Thriller, Romance"
+s00171,Movie,Ocean Mysteries 989,Quentin Tarantino,"Actor A, Actor B, Actor E, Actor C",Germany,4/21/2022,1996,174,An action-packed thriller.,"Romance, Documentary, Comedy"
+s00172,Movie,Desert Winds 916,John Smith,Actor C,United States,1/24/2021,2003,98,An intense drama about life choices.,Documentary
+s00173,Movie,Desert Winds 1266,nan,Actor C,United States,8/11/2015,1999,155,A sci-fi exploration of future technology.,"Action, Documentary, Romance"
+s00174,Movie,Desert Winds 731,Maria Garcia,Actor E,United States,6/16/2013,1981,81,A thrilling adventure about discovery.,"Horror, Sci-Fi"
+s00175,Movie,Starlight Journey 524,Christopher Nolan,,United States,12/12/2016,1976,120,A romantic tale set in a distant land.,"Horror, Sci-Fi, Action"
+s00176,Movie,Starlight Journey 1930,nan,,India,11/17/2022,2007,88,An intense drama about life choices.,"Drama, Action, Romance"
+s00177,Movie,The Last Adventure 22,Christopher Nolan,"Actor E, Actor A, Actor B, Actor C",nan,,2017,140,A thrilling adventure about discovery.,"Action, Children & Family"
+s00178,TV Show,Tech Wars,nan,"Actor A, Actor E",India,11/23/2013,1983,7 Season(s),A family movie for all ages.,"Sci-Fi, Action"
+s00179,Movie,Hidden Truth 306,Christopher Nolan,Actor E,India,4/9/2014,1971,90,A romantic tale set in a distant land.,Horror
+s00180,Movie,Lost Kingdom 704,David Lee,"Actor B, Actor A, Actor C",nan,4/11/2017,2001,63,A family movie for all ages.,"Comedy, Documentary, Action"
+s00181,Movie,Urban Legends 285,Christopher Nolan,Actor D,United States,10/4/2014,2020,71,A heartwarming story of friendship.,Drama
+s00182,TV Show,Beyond Borders,nan,"Actor A, Actor B, Actor E",South Korea,9/28/2020,2013,3 Season(s),A documentary about nature.,"Sci-Fi, Thriller, Documentary"
+s00183,TV Show,Beyond Borders,John Smith,"Actor D, Actor C, Actor B, Actor A",India,4/2/2015,1968,6 Season(s),A heartwarming story of friendship.,"Comedy, Sci-Fi, Drama"
+s00184,Movie,Cyber Revolution 948,Steven Spielberg,,Canada,5/6/2011,1992,92,A comedy that will make you laugh.,"Action, Drama, Sci-Fi"
+s00185,Movie,Silent Forest 1031,Jane Doe,,United Kingdom,12/5/2011,1993,169,An intense drama about life choices.,"Romance, Thriller, Action"
+s00186,TV Show,Undercover,Steven Spielberg,Actor B,Canada,10/18/2021,2013,5 Season(s),An action-packed thriller.,"Documentary, Thriller, Sci-Fi"
+s00187,Movie,Neon Nights 1057,Steven Spielberg,"Actor D, Actor B",United States,4/17/2018,1983,91,A heartwarming story of friendship.,"Drama, Thriller, Horror"
+s00188,Movie,Mountain Echo 879,nan,,Germany,7/2/2016,2006,65,An intense drama about life choices.,"Drama, Sci-Fi, Documentary"
+s00189,Movie,Urban Legends 1952,John Smith,"Actor C, Actor E",United States,3/19/2014,2017,127,A mystery that will keep you guessing.,"Documentary, Drama, Comedy"
+s00190,Movie,Final Frontier 459,nan,"Actor D, Actor A",South Korea,4/24/2015,1968,81,A comedy that will make you laugh.,"Comedy, Drama"
+s00191,TV Show,Tech Wars,David Lee,,United Kingdom,11/11/2020,2021,3 Season(s),A romantic tale set in a distant land.,"Thriller, Romance"
+s00192,TV Show,Legal Minds,David Lee,"Actor E, Actor D",United States,1/22/2018,1993,6 Season(s),An intense drama about life choices.,"Documentary, Comedy"
+s00193,Movie,Moonlight Dreams 1454,Steven Spielberg,"Actor A, Actor C, Actor D",France,5/26/2019,1960,87,A thrilling adventure about discovery.,"Drama, Action"
+s00194,Movie,Moonlight Dreams 1309,Quentin Tarantino,"Actor E, Actor C",United States,8/12/2019,1993,94,A romantic tale set in a distant land.,"Action, Romance"
+s00195,Movie,Desert Winds 2001,nan,Actor B,Germany,11/9/2015,1964,68,A comedy that will make you laugh.,"Comedy, Action, Documentary"
+s00196,TV Show,Family Ties,nan,"Actor B, Actor E, Actor A",nan,4/9/2019,2006,2 Season(s),A heartwarming story of friendship.,"Documentary, Drama"
+s00197,TV Show,Undercover,James Cameron,,Germany,5/1/2014,1987,4 Season(s),A mystery that will keep you guessing.,"Drama, Sci-Fi"
+s00198,TV Show,Mystery Valley,James Cameron,"Actor B, Actor C, Actor D, Actor A",United States,8/6/2012,1989,1 Season(s),A family movie for all ages.,Drama
+s00199,TV Show,Legal Minds,John Smith,Actor E,Canada,5/1/2020,1977,7 Season(s),A sci-fi exploration of future technology.,"Children & Family, Action"
+s00200,Movie,Urban Legends 887,nan,"Actor B, Actor A",France,9/3/2021,1990,88,A romantic tale set in a distant land.,"Children & Family, Sci-Fi, Action"
+s00201,Movie,Neon Nights 884,James Cameron,"Actor A, Actor E, Actor B, Actor D",Australia,12/2/2013,2015,151,A romantic tale set in a distant land.,"Thriller, Romance"
+s00202,Movie,Moonlight Dreams 1711,John Smith,,United States,12/26/2018,2022,93,An action-packed thriller.,"Action, Sci-Fi, Horror"
+s00203,TV Show,Medical Heroes,nan,,India,6/15/2012,2013,8 Season(s),A heartwarming story of friendship.,"Thriller, Children & Family"
+s00204,Movie,Broken Chains 1046,Christopher Nolan,"Actor A, Actor B, Actor E, Actor C",India,1/6/2022,1993,92,A romantic tale set in a distant land.,"Action, Sci-Fi"
+s00205,Movie,Neon Nights 1563,Christopher Nolan,"Actor A, Actor E, Actor D, Actor B",United States,11/3/2012,1996,86,An action-packed thriller.,"Drama, Sci-Fi, Children & Family"
+s00206,Movie,Cyber Revolution 849,David Lee,Actor D,United Kingdom,11/15/2020,1996,102,A comedy that will make you laugh.,"Comedy, Action"
+s00207,Movie,Silent Forest 1464,nan,"Actor D, Actor B",India,5/4/2017,2008,92,A romantic tale set in a distant land.,"Horror, Romance, Documentary"
+s00208,Movie,Urban Legends 2000,Quentin Tarantino,"Actor D, Actor C",Australia,1/2/2018,1980,90,A mystery that will keep you guessing.,"Comedy, Action, Drama"
+s00209,Movie,Ocean Mysteries 1979,John Smith,"Actor A, Actor D",Mexico,1/28/2016,2021,66,A thrilling adventure about discovery.,Comedy
+s00210,Movie,Broken Chains 1798,John Smith,"Actor E, Actor A",Japan,11/12/2014,1976,90,A sci-fi exploration of future technology.,"Action, Sci-Fi"
+s00211,Movie,Final Frontier 1977,John Smith,,United Kingdom,12/14/2021,2017,90,A comedy that will make you laugh.,"Drama, Horror"
+s00212,Movie,Ocean Mysteries 1411,David Lee,"Actor A, Actor C, Actor B",United States,4/20/2018,1965,87,A family movie for all ages.,Romance
+s00213,Movie,The Last Adventure 570,John Smith,"Actor E, Actor C",nan,2/3/2019,2014,94,A heartwarming story of friendship.,"Drama, Action"
+s00214,TV Show,Beyond Borders,John Smith,Actor D,nan,11/21/2012,2004,4 Season(s),A heartwarming story of friendship.,"Documentary, Children & Family, Horror"
+s00215,Movie,Mountain Echo 1551,John Smith,"Actor D, Actor C, Actor E",Mexico,10/3/2017,1997,100,A heartwarming story of friendship.,"Documentary, Thriller, Sci-Fi"
+s00216,Movie,Moonlight Dreams 1981,Maria Garcia,"Actor E, Actor D, Actor A",Germany,7/18/2016,2006,93,A mystery that will keep you guessing.,Horror
+s00217,TV Show,Family Ties,Maria Garcia,"Actor C, Actor E, Actor B, Actor D",United Kingdom,10/10/2021,1986,1 Season(s),A comedy that will make you laugh.,"Action, Comedy, Documentary"
+s00218,Movie,Starlight Journey 793,nan,,Australia,,1998,176,A romantic tale set in a distant land.,"Comedy, Action, Thriller"
+s00219,TV Show,Space Explorers,Christopher Nolan,"Actor C, Actor D",India,3/28/2019,2004,3 Season(s),A mystery that will keep you guessing.,"Horror, Romance, Action"
+s00220,Movie,Silent Forest 1810,nan,"Actor E, Actor A",United Kingdom,,1994,85,An action-packed thriller.,"Documentary, Horror"
+s00221,Movie,Urban Legends 492,nan,,Spain,11/11/2022,1970,125,A heartwarming story of friendship.,"Drama, Documentary, Comedy"
+s00222,Movie,Wild Expedition 1563,James Cameron,"Actor C, Actor E, Actor A, Actor D",United States,6/18/2010,1994,92,A family movie for all ages.,Children & Family
+s00223,Movie,Time Paradox 1084,John Smith,"Actor B, Actor E, Actor A",United States,6/22/2013,1994,91,An action-packed thriller.,"Drama, Action, Comedy"
+s00224,Movie,Lost Kingdom 985,John Smith,Actor E,India,2/1/2016,1978,164,A sci-fi exploration of future technology.,"Comedy, Thriller"
+s00225,Movie,Starlight Journey 1629,Quentin Tarantino,"Actor C, Actor E, Actor A",India,,1972,87,A romantic tale set in a distant land.,Drama
+s00226,TV Show,Undercover,Jane Doe,"Actor E, Actor A",South Korea,10/22/2021,2002,2 Season(s),A romantic tale set in a distant land.,"Action, Thriller"
+s00227,Movie,Time Paradox 591,Christopher Nolan,,United States,7/12/2012,1986,144,An intense drama about life choices.,Romance
+s00228,TV Show,Family Ties,James Cameron,"Actor C, Actor B, Actor D",United States,3/17/2021,1965,3 Season(s),A family movie for all ages.,"Action, Drama, Thriller"
+s00229,Movie,Lost Kingdom 1586,nan,"Actor C, Actor A, Actor B, Actor E",United States,6/6/2019,1970,92,A mystery that will keep you guessing.,Romance
+s00230,TV Show,Beyond Borders,James Cameron,Actor D,United States,12/5/2015,2012,7 Season(s),A mystery that will keep you guessing.,"Romance, Thriller"
+s00231,Movie,Secret Agent X 387,nan,Actor A,United States,11/8/2015,1998,92,A documentary about nature.,Thriller
+s00232,Movie,Silent Forest 693,Maria Garcia,"Actor E, Actor D, Actor B, Actor A",France,12/2/2021,1989,85,A sci-fi exploration of future technology.,Action
+s00233,Movie,Cyber Revolution 916,nan,"Actor C, Actor B, Actor E",India,3/10/2014,1984,153,A heartwarming story of friendship.,"Action, Documentary"
+s00234,Movie,Lost Kingdom 527,Maria Garcia,"Actor D, Actor C",Germany,1/12/2016,2016,91,An intense drama about life choices.,Drama
+s00235,TV Show,Mystery Valley,Christopher Nolan,"Actor D, Actor E, Actor C",nan,9/4/2014,1989,6 Season(s),An action-packed thriller.,Action
+s00236,Movie,Lost Kingdom 455,David Lee,,France,2/12/2014,2008,93,A romantic tale set in a distant land.,"Sci-Fi, Drama"
+s00237,Movie,Starlight Journey 1918,Christopher Nolan,"Actor A, Actor E, Actor D",United States,12/12/2021,2018,88,A documentary about nature.,"Romance, Drama, Comedy"
+s00238,Movie,Silent Forest 1876,John Smith,,United States,4/24/2010,1974,128,A documentary about nature.,"Action, Romance, Comedy"
+s00239,Movie,Desert Winds 521,nan,,South Korea,11/13/2021,2003,76,A sci-fi exploration of future technology.,Comedy
+s00240,TV Show,Medical Heroes,Steven Spielberg,,India,8/20/2019,1973,5 Season(s),A thrilling adventure about discovery.,"Action, Comedy"
+s00241,TV Show,Space Explorers,Jane Doe,"Actor A, Actor E, Actor B",Australia,,2007,4 Season(s),A romantic tale set in a distant land.,"Sci-Fi, Action, Thriller"
+s00242,TV Show,Mystery Valley,nan,"Actor B, Actor C, Actor D",South Korea,5/15/2017,2006,6 Season(s),A mystery that will keep you guessing.,"Drama, Thriller"
+s00243,Movie,Moonlight Dreams 1368,nan,Actor A,Mexico,,1975,67,An action-packed thriller.,Action
+s00244,Movie,Time Paradox 395,David Lee,"Actor C, Actor E, Actor B, Actor D",Mexico,4/4/2018,2007,60,A heartwarming story of friendship.,"Sci-Fi, Thriller, Action"
+s00245,TV Show,Space Explorers,James Cameron,"Actor B, Actor E, Actor D",Canada,9/15/2012,1986,5 Season(s),A heartwarming story of friendship.,Drama
+s00246,Movie,Digital Ghost 721,David Lee,"Actor E, Actor A",United Kingdom,5/22/2021,2014,96,A family movie for all ages.,"Drama, Children & Family"
+s00247,TV Show,Space Explorers,James Cameron,"Actor D, Actor B, Actor E, Actor C",nan,11/22/2021,1992,5 Season(s),A thrilling adventure about discovery.,"Drama, Sci-Fi"
+s00248,TV Show,Undercover,nan,"Actor A, Actor B",India,6/24/2013,2009,5 Season(s),A sci-fi exploration of future technology.,"Children & Family, Action"
+s00249,TV Show,Tech Wars,nan,"Actor B, Actor D",United States,7/15/2015,2010,5 Season(s),A heartwarming story of friendship.,"Romance, Sci-Fi, Drama"
+s00250,Movie,Hidden Truth 1390,nan,"Actor D, Actor E",Japan,9/20/2021,1991,111,An intense drama about life choices.,"Sci-Fi, Children & Family"
+s00251,Movie,Urban Legends 607,nan,"Actor A, Actor C",Canada,,1997,71,A heartwarming story of friendship.,"Thriller, Documentary"
+s00252,TV Show,Medical Heroes,Christopher Nolan,Actor A,South Korea,9/17/2014,2017,4 Season(s),A comedy that will make you laugh.,Sci-Fi
+s00253,Movie,Neon Nights 1325,nan,,France,,1977,76,An intense drama about life choices.,"Drama, Action, Sci-Fi"
+s00254,Movie,The Last Adventure 102,nan,"Actor C, Actor D, Actor A, Actor B",United Kingdom,6/21/2016,1993,91,An action-packed thriller.,Thriller
+s00255,Movie,Echoes of Yesterday 1416,Christopher Nolan,"Actor E, Actor C, Actor B",nan,9/14/2014,1981,62,A family movie for all ages.,"Drama, Romance"
+s00256,TV Show,Family Ties,nan,,Australia,10/20/2021,1961,5 Season(s),A heartwarming story of friendship.,Action
+s00257,Movie,Final Frontier 1112,James Cameron,"Actor E, Actor D",Japan,3/15/2014,2002,113,A mystery that will keep you guessing.,Documentary
+s00258,Movie,Echoes of Yesterday 401,David Lee,"Actor C, Actor A, Actor B",United States,10/3/2014,1972,173,An intense drama about life choices.,Comedy
+s00259,Movie,Silent Forest 889,nan,Actor D,United Kingdom,10/5/2012,1998,94,A family movie for all ages.,Sci-Fi
+s00260,Movie,Lost Kingdom 1696,David Lee,"Actor D, Actor B, Actor A, Actor C",France,10/20/2015,1966,82,A documentary about nature.,"Comedy, Drama"
+s00261,TV Show,Legal Minds,Christopher Nolan,Actor A,United States,2/20/2017,1960,7 Season(s),A comedy that will make you laugh.,Action
+s00262,Movie,Wild Expedition 1334,Maria Garcia,"Actor E, Actor C, Actor B, Actor A",United States,10/19/2010,1973,149,A comedy that will make you laugh.,Documentary
+s00263,Movie,Broken Chains 673,Maria Garcia,Actor C,Spain,12/7/2015,1991,89,An action-packed thriller.,"Romance, Documentary"
+s00264,TV Show,Tech Wars,nan,"Actor C, Actor A, Actor E, Actor B",India,8/20/2017,2010,4 Season(s),An intense drama about life choices.,"Action, Drama, Thriller"
+s00265,TV Show,Space Explorers,John Smith,Actor B,India,9/8/2014,1993,7 Season(s),A mystery that will keep you guessing.,Action
+s00266,Movie,Hidden Truth 1889,Jane Doe,,United States,,2008,89,A thrilling adventure about discovery.,"Children & Family, Drama"
+s00267,TV Show,Tech Wars,nan,,India,1/1/2021,1994,1 Season(s),A mystery that will keep you guessing.,Romance
+s00268,Movie,The Last Adventure 801,John Smith,"Actor C, Actor B",Germany,4/7/2014,1967,110,A family movie for all ages.,Horror
+s00269,Movie,Echoes of Yesterday 1997,David Lee,"Actor D, Actor B",United States,7/24/2012,1975,118,A heartwarming story of friendship.,"Drama, Comedy"
+s00270,TV Show,Medical Heroes,David Lee,,United States,8/23/2017,1997,3 Season(s),A romantic tale set in a distant land.,"Sci-Fi, Comedy"
+s00271,TV Show,Mystery Valley,nan,,France,11/13/2019,1994,2 Season(s),An action-packed thriller.,"Action, Children & Family, Documentary"
+s00272,TV Show,Undercover,Maria Garcia,"Actor B, Actor A, Actor D",nan,1/21/2017,1974,4 Season(s),A romantic tale set in a distant land.,Action
+s00273,TV Show,Beyond Borders,Maria Garcia,"Actor E, Actor D",Japan,,1990,2 Season(s),An intense drama about life choices.,"Action, Romance"
+s00274,Movie,Secret Agent X 194,Steven Spielberg,"Actor B, Actor D, Actor E, Actor A",United States,7/23/2011,2008,85,A thrilling adventure about discovery.,"Action, Horror, Thriller"
+s00275,Movie,Mountain Echo 871,Steven Spielberg,"Actor A, Actor B, Actor D",United Kingdom,5/17/2017,2020,90,A comedy that will make you laugh.,"Drama, Romance, Documentary"
+s00276,TV Show,Tech Wars,Steven Spielberg,Actor A,South Korea,2/4/2022,2000,5 Season(s),A comedy that will make you laugh.,"Comedy, Romance, Sci-Fi"
+s00277,Movie,Lost Kingdom 122,Steven Spielberg,Actor E,United States,2/4/2018,1993,136,A documentary about nature.,Sci-Fi
+s00278,TV Show,Tech Wars,David Lee,,Japan,10/18/2012,2018,3 Season(s),A family movie for all ages.,"Thriller, Comedy, Action"
+s00279,TV Show,Legal Minds,nan,,India,10/5/2014,1995,6 Season(s),A family movie for all ages.,"Thriller, Romance, Comedy"
+s00280,TV Show,Tech Wars,Maria Garcia,"Actor B, Actor C, Actor A, Actor D",United States,7/17/2022,2021,1 Season(s),A mystery that will keep you guessing.,Children & Family
+s00281,Movie,Future Shock 887,nan,"Actor D, Actor A",Australia,8/23/2021,1963,91,A family movie for all ages.,Sci-Fi
+s00282,Movie,Silent Forest 1329,nan,Actor E,Spain,9/7/2021,1976,117,A mystery that will keep you guessing.,"Thriller, Action"
+s00283,Movie,Time Paradox 1995,nan,,France,8/14/2019,1985,163,A mystery that will keep you guessing.,"Thriller, Romance"
+s00284,Movie,Cyber Revolution 635,David Lee,"Actor A, Actor D, Actor C, Actor E",United States,5/8/2020,2018,137,A heartwarming story of friendship.,Action
+s00285,Movie,Mountain Echo 9,Maria Garcia,,United States,7/18/2022,2018,92,An action-packed thriller.,"Documentary, Romance"
+s00286,Movie,Mountain Echo 1097,John Smith,"Actor E, Actor A, Actor D, Actor B",Canada,,2017,92,A romantic tale set in a distant land.,"Comedy, Action"
+s00287,Movie,Secret Agent X 223,Christopher Nolan,"Actor A, Actor D",Canada,11/26/2016,1971,113,A heartwarming story of friendship.,"Sci-Fi, Documentary, Action"
+s00288,Movie,Echoes of Yesterday 1394,Jane Doe,Actor E,United States,10/15/2020,1971,176,A thrilling adventure about discovery.,"Documentary, Sci-Fi"
+s00289,Movie,Silent Forest 1288,nan,,United States,1/13/2022,2010,86,A thrilling adventure about discovery.,Sci-Fi
+s00290,Movie,Time Paradox 1714,nan,"Actor C, Actor B, Actor A",United States,1/15/2010,1962,88,A thrilling adventure about discovery.,"Drama, Comedy"
+s00291,Movie,Broken Chains 1342,Quentin Tarantino,"Actor B, Actor A",nan,,1968,89,A comedy that will make you laugh.,Drama
+s00292,TV Show,Legal Minds,John Smith,Actor B,Germany,4/24/2018,1995,3 Season(s),A comedy that will make you laugh.,"Comedy, Drama"
+s00293,Movie,Secret Agent X 459,nan,Actor A,Mexico,11/24/2011,2001,89,An action-packed thriller.,"Action, Documentary, Children & Family"
+s00294,Movie,Broken Chains 208,Christopher Nolan,"Actor D, Actor A",United States,4/9/2016,1992,111,A thrilling adventure about discovery.,"Sci-Fi, Drama"
+s00295,Movie,Desert Winds 1414,Jane Doe,"Actor E, Actor A, Actor C",nan,1/23/2017,2019,69,An intense drama about life choices.,Documentary
+s00296,TV Show,Tech Wars,nan,,United States,9/2/2021,1996,6 Season(s),An intense drama about life choices.,Sci-Fi
+s00297,Movie,Cyber Revolution 1151,John Smith,,India,4/20/2020,1989,171,A documentary about nature.,"Thriller, Action, Horror"
+s00298,Movie,Echoes of Yesterday 1724,Christopher Nolan,"Actor D, Actor B, Actor C, Actor A",Australia,8/12/2020,1999,88,A heartwarming story of friendship.,"Drama, Action"
+s00299,Movie,Future Shock 14,Maria Garcia,"Actor E, Actor A, Actor D",United Kingdom,2/2/2019,2006,74,A romantic tale set in a distant land.,"Drama, Action"
+s00300,Movie,Neon Nights 978,nan,"Actor D, Actor A, Actor C, Actor E",India,,1992,94,A comedy that will make you laugh.,Drama
+s00301,Movie,Silent Forest 87,Maria Garcia,,United States,9/12/2010,2006,88,A family movie for all ages.,"Comedy, Action, Thriller"
+s00302,Movie,Silent Forest 909,Quentin Tarantino,Actor C,United States,12/16/2012,1990,122,A romantic tale set in a distant land.,"Romance, Thriller, Documentary"
+s00303,Movie,Digital Ghost 1267,Jane Doe,Actor E,Japan,5/25/2020,1985,87,A sci-fi exploration of future technology.,"Horror, Romance"
+s00304,TV Show,Tech Wars,John Smith,"Actor E, Actor C, Actor A",France,,1975,6 Season(s),An action-packed thriller.,Drama
+s00305,TV Show,Family Ties,Maria Garcia,Actor D,Germany,9/23/2015,2001,5 Season(s),An action-packed thriller.,"Action, Documentary"
+s00306,Movie,Lost Kingdom 1380,nan,"Actor B, Actor A",Canada,12/13/2020,1987,103,A thrilling adventure about discovery.,"Action, Thriller"
+s00307,Movie,Digital Ghost 1928,Christopher Nolan,Actor C,Japan,6/6/2011,2008,87,An intense drama about life choices.,Action
+s00308,TV Show,Undercover,nan,"Actor B, Actor D, Actor A",United States,8/8/2013,1992,3 Season(s),A thrilling adventure about discovery.,"Action, Thriller, Comedy"
+s00309,Movie,Final Frontier 1836,Christopher Nolan,"Actor E, Actor A",United States,1/2/2017,2011,86,A romantic tale set in a distant land.,Drama
+s00310,Movie,Hidden Truth 1990,Jane Doe,"Actor A, Actor E",nan,12/25/2013,1961,94,An intense drama about life choices.,"Documentary, Comedy"
+s00311,Movie,Hidden Truth 1747,Christopher Nolan,Actor D,United States,7/8/2015,1976,87,A thrilling adventure about discovery.,Action
+s00312,Movie,Ocean Mysteries 1376,Jane Doe,,France,6/5/2012,1981,74,A romantic tale set in a distant land.,Comedy
+s00313,TV Show,Space Explorers,Maria Garcia,"Actor E, Actor D",United States,10/20/2021,2012,3 Season(s),A sci-fi exploration of future technology.,"Action, Comedy"
+s00314,TV Show,Mystery Valley,Maria Garcia,"Actor C, Actor D",Spain,7/24/2022,2020,8 Season(s),A documentary about nature.,Thriller
+s00315,Movie,Cyber Revolution 924,Steven Spielberg,,Spain,,1993,176,A heartwarming story of friendship.,"Comedy, Action"
+s00316,Movie,Future Shock 755,David Lee,"Actor D, Actor B, Actor C",United States,5/18/2015,1990,112,A documentary about nature.,"Documentary, Action"
+s00317,Movie,Cyber Revolution 445,Christopher Nolan,,United States,12/15/2015,1978,71,A sci-fi exploration of future technology.,Action
+s00318,Movie,Urban Legends 353,nan,"Actor E, Actor A, Actor D",France,11/26/2018,1969,156,A documentary about nature.,Horror
+s00319,Movie,Secret Agent X 1356,nan,"Actor D, Actor A, Actor B, Actor E",United Kingdom,1/21/2018,2020,66,A family movie for all ages.,"Comedy, Children & Family, Drama"
+s00320,Movie,Starlight Journey 862,Jane Doe,,United States,6/11/2015,1982,62,A comedy that will make you laugh.,"Sci-Fi, Documentary, Drama"
+s00321,TV Show,Undercover,Maria Garcia,"Actor A, Actor E",Spain,,1974,3 Season(s),A comedy that will make you laugh.,"Romance, Comedy, Children & Family"
+s00322,Movie,Broken Chains 805,Jane Doe,Actor A,United States,1/9/2013,1982,154,A family movie for all ages.,"Action, Children & Family"
+s00323,Movie,Desert Winds 732,Christopher Nolan,"Actor B, Actor A, Actor C",South Korea,6/13/2021,2004,130,A comedy that will make you laugh.,Action
+s00324,TV Show,Beyond Borders,Jane Doe,"Actor D, Actor C",India,11/9/2021,1998,3 Season(s),A romantic tale set in a distant land.,"Thriller, Drama"
+s00325,TV Show,Medical Heroes,nan,Actor D,United States,11/12/2019,1977,6 Season(s),A comedy that will make you laugh.,"Sci-Fi, Comedy"
+s00326,Movie,Broken Chains 956,Maria Garcia,,France,12/18/2012,1986,178,An action-packed thriller.,"Sci-Fi, Drama"
+s00327,Movie,Hidden Truth 1713,Steven Spielberg,"Actor A, Actor B, Actor D, Actor C",India,1/19/2012,1996,120,An action-packed thriller.,Drama
+s00328,Movie,Final Frontier 608,nan,"Actor B, Actor D",United States,7/28/2013,1998,112,An intense drama about life choices.,"Drama, Comedy"
+s00329,Movie,Echoes of Yesterday 420,Maria Garcia,,India,5/21/2021,1966,150,A mystery that will keep you guessing.,"Documentary, Drama"
+s00330,Movie,Moonlight Dreams 1536,nan,"Actor A, Actor B, Actor C",United States,,1969,175,A sci-fi exploration of future technology.,"Thriller, Drama, Documentary"
+s00331,TV Show,Beyond Borders,Maria Garcia,,United States,12/17/2011,1993,8 Season(s),An action-packed thriller.,"Documentary, Comedy"
+s00332,Movie,Moonlight Dreams 335,Maria Garcia,"Actor D, Actor C, Actor E",United States,6/17/2011,1998,102,A heartwarming story of friendship.,"Drama, Romance, Documentary"
+s00333,Movie,Moonlight Dreams 932,Steven Spielberg,"Actor E, Actor D, Actor C, Actor B",United Kingdom,4/9/2018,2004,90,An intense drama about life choices.,"Horror, Comedy, Romance"
+s00334,Movie,Mountain Echo 295,Steven Spielberg,"Actor D, Actor C, Actor B, Actor E",United States,1/6/2016,1966,169,A family movie for all ages.,"Romance, Comedy, Drama"
+s00335,Movie,Future Shock 755,nan,,France,,1994,93,A sci-fi exploration of future technology.,"Romance, Children & Family"
+s00336,TV Show,Family Ties,Quentin Tarantino,"Actor D, Actor A, Actor E",France,11/6/2022,1980,1 Season(s),A sci-fi exploration of future technology.,"Thriller, Action"
+s00337,TV Show,Tech Wars,nan,,India,3/23/2010,1980,1 Season(s),A family movie for all ages.,"Sci-Fi, Thriller"
+s00338,Movie,Silent Forest 1667,Maria Garcia,"Actor E, Actor B, Actor C, Actor D",Germany,3/28/2012,2005,89,A mystery that will keep you guessing.,"Comedy, Action"
+s00339,Movie,Digital Ghost 530,Steven Spielberg,,Australia,3/10/2013,1965,135,A documentary about nature.,"Children & Family, Romance, Documentary"
+s00340,Movie,Time Paradox 21,Christopher Nolan,"Actor A, Actor E",Canada,4/24/2011,2014,93,A documentary about nature.,Romance
+s00341,Movie,Urban Legends 1761,Quentin Tarantino,,Japan,7/18/2016,2020,88,A thrilling adventure about discovery.,"Action, Drama"
+s00342,Movie,Cyber Revolution 794,nan,,United States,6/19/2019,1963,169,A thrilling adventure about discovery.,"Comedy, Action, Romance"
+s00343,Movie,Time Paradox 100,John Smith,"Actor E, Actor B, Actor A",South Korea,10/13/2013,2021,87,An intense drama about life choices.,"Action, Romance"
+s00344,Movie,Wild Expedition 478,Jane Doe,,United States,1/22/2015,1993,76,A thrilling adventure about discovery.,Romance
+s00345,Movie,Future Shock 940,Jane Doe,"Actor B, Actor C",United Kingdom,1/8/2019,2004,94,A thrilling adventure about discovery.,Thriller
+s00346,Movie,Lost Kingdom 334,Steven Spielberg,"Actor A, Actor D, Actor E",Spain,2/16/2011,1984,86,A family movie for all ages.,"Thriller, Drama"
+s00347,Movie,Moonlight Dreams 375,John Smith,"Actor E, Actor B, Actor D",United States,6/26/2012,1974,78,A documentary about nature.,Comedy
+s00348,Movie,Ocean Mysteries 837,Steven Spielberg,Actor A,United States,4/26/2021,2007,85,A thrilling adventure about discovery.,"Comedy, Action"
+s00349,Movie,Mountain Echo 1005,nan,"Actor A, Actor D, Actor C, Actor B",Canada,,1996,114,An action-packed thriller.,Drama
+s00350,Movie,Echoes of Yesterday 318,Jane Doe,"Actor A, Actor B, Actor C, Actor E",Canada,7/15/2017,1995,171,A heartwarming story of friendship.,"Comedy, Drama, Action"
+s00351,TV Show,Medical Heroes,Jane Doe,"Actor A, Actor B, Actor E, Actor C",Spain,6/23/2011,1993,4 Season(s),An action-packed thriller.,Thriller
+s00352,Movie,Urban Legends 14,John Smith,"Actor B, Actor C, Actor D, Actor A",Australia,3/7/2016,1976,175,A mystery that will keep you guessing.,Sci-Fi
+s00353,Movie,Secret Agent X 2009,John Smith,"Actor A, Actor B, Actor D",United States,12/16/2017,1983,62,An action-packed thriller.,"Action, Thriller, Drama"
+s00354,Movie,Broken Chains 130,nan,"Actor E, Actor A, Actor D",United States,6/2/2016,1966,69,An intense drama about life choices.,"Action, Sci-Fi, Comedy"
+s00355,Movie,Secret Agent X 838,Maria Garcia,"Actor D, Actor E, Actor B",France,11/9/2021,1962,74,A thrilling adventure about discovery.,"Drama, Horror"
+s00356,Movie,Starlight Journey 891,Christopher Nolan,,United Kingdom,11/5/2010,2009,94,A thrilling adventure about discovery.,"Documentary, Drama"
+s00357,Movie,Moonlight Dreams 1187,David Lee,"Actor B, Actor E, Actor D",Japan,8/7/2012,1996,103,A family movie for all ages.,"Romance, Drama, Thriller"
+s00358,TV Show,Undercover,Steven Spielberg,Actor E,United States,7/15/2021,1994,7 Season(s),A romantic tale set in a distant land.,"Sci-Fi, Action"
+s00359,Movie,Ocean Mysteries 1473,Christopher Nolan,"Actor C, Actor D, Actor A, Actor B",India,7/6/2018,1973,115,A mystery that will keep you guessing.,Thriller
+s00360,Movie,Time Paradox 460,nan,Actor D,India,3/1/2011,1993,149,An action-packed thriller.,"Comedy, Drama, Sci-Fi"
+s00361,Movie,Desert Winds 301,nan,,Canada,5/25/2022,2003,145,A romantic tale set in a distant land.,"Sci-Fi, Action"
+s00362,Movie,Urban Legends 287,nan,"Actor E, Actor A",India,12/19/2014,1990,171,A sci-fi exploration of future technology.,"Children & Family, Horror"
+s00363,Movie,Neon Nights 1034,John Smith,Actor E,India,2/21/2021,1996,69,A heartwarming story of friendship.,"Drama, Action"
+s00364,TV Show,Family Ties,Maria Garcia,Actor E,United Kingdom,8/15/2017,1998,8 Season(s),A heartwarming story of friendship.,Sci-Fi
+s00365,Movie,Lost Kingdom 592,Steven Spielberg,Actor A,United States,,1987,94,A documentary about nature.,"Romance, Action, Drama"
+s00366,TV Show,Tech Wars,Quentin Tarantino,"Actor B, Actor A",United States,6/4/2016,1976,3 Season(s),A thrilling adventure about discovery.,"Documentary, Action"
+s00367,TV Show,Undercover,nan,,India,12/3/2015,1972,3 Season(s),A documentary about nature.,"Thriller, Action"
+s00368,Movie,Future Shock 844,Jane Doe,"Actor A, Actor B",United Kingdom,6/16/2016,1975,78,A family movie for all ages.,Action
+s00369,Movie,Echoes of Yesterday 1281,nan,,India,1/6/2010,1970,65,A mystery that will keep you guessing.,"Action, Comedy, Thriller"
+s00370,Movie,Ocean Mysteries 1300,nan,Actor A,United Kingdom,12/23/2022,1992,106,A mystery that will keep you guessing.,Comedy
+s00371,Movie,Time Paradox 1707,Steven Spielberg,Actor E,France,7/15/2021,1998,64,A sci-fi exploration of future technology.,"Action, Sci-Fi, Comedy"
+s00372,Movie,Silent Forest 513,Maria Garcia,"Actor C, Actor B, Actor D, Actor E",South Korea,11/16/2010,1972,125,An intense drama about life choices.,Horror
+s00373,Movie,Broken Chains 1308,David Lee,"Actor B, Actor E, Actor D, Actor A",United States,3/27/2021,2015,88,A mystery that will keep you guessing.,Documentary
+s00374,Movie,Neon Nights 1957,Quentin Tarantino,"Actor D, Actor A, Actor E",United States,2/17/2021,1966,147,A mystery that will keep you guessing.,"Comedy, Drama"
+s00375,Movie,Urban Legends 1228,nan,,United States,6/13/2010,1972,150,A mystery that will keep you guessing.,"Horror, Romance, Children & Family"
+s00376,TV Show,Undercover,Maria Garcia,,Japan,10/24/2020,1974,4 Season(s),A heartwarming story of friendship.,"Action, Thriller"
+s00377,Movie,Starlight Journey 1521,Steven Spielberg,Actor C,India,1/4/2010,1974,148,An intense drama about life choices.,"Children & Family, Action"
+s00378,TV Show,Space Explorers,Maria Garcia,"Actor E, Actor B, Actor C, Actor D",United States,4/10/2016,1970,6 Season(s),An intense drama about life choices.,"Drama, Thriller"
+s00379,Movie,Silent Forest 1848,nan,"Actor D, Actor B, Actor A, Actor C",France,11/26/2010,1963,154,A comedy that will make you laugh.,Drama
+s00380,Movie,Urban Legends 1743,Steven Spielberg,Actor E,United States,11/18/2022,2011,123,An action-packed thriller.,Comedy
+s00381,Movie,Mountain Echo 620,nan,Actor D,Canada,10/10/2019,1989,92,A family movie for all ages.,"Drama, Thriller"
+s00382,Movie,Broken Chains 1906,Quentin Tarantino,"Actor D, Actor A, Actor E, Actor C",India,5/24/2011,1988,113,A thrilling adventure about discovery.,"Sci-Fi, Comedy"
+s00383,TV Show,Medical Heroes,nan,"Actor D, Actor E",Spain,9/5/2017,1988,4 Season(s),A mystery that will keep you guessing.,Action
+s00384,TV Show,Tech Wars,nan,"Actor A, Actor D, Actor E, Actor B",United States,7/17/2011,2009,2 Season(s),A mystery that will keep you guessing.,"Romance, Comedy"
+s00385,TV Show,Mystery Valley,Jane Doe,"Actor B, Actor E, Actor C, Actor D",South Korea,10/20/2011,2002,8 Season(s),A comedy that will make you laugh.,Documentary
+s00386,Movie,Ocean Mysteries 1044,Jane Doe,"Actor E, Actor D, Actor B",Spain,12/11/2022,1971,93,A thrilling adventure about discovery.,"Action, Documentary"
+s00387,Movie,The Last Adventure 119,nan,,United States,9/17/2014,2010,84,An intense drama about life choices.,"Thriller, Sci-Fi, Romance"
+s00388,TV Show,Family Ties,John Smith,"Actor A, Actor E, Actor C, Actor D",United States,9/6/2011,1973,6 Season(s),A sci-fi exploration of future technology.,"Thriller, Documentary, Comedy"
+s00389,TV Show,Medical Heroes,nan,Actor A,India,8/17/2012,1980,4 Season(s),A heartwarming story of friendship.,Comedy
+s00390,TV Show,Undercover,Steven Spielberg,Actor D,Australia,10/17/2022,2002,7 Season(s),A mystery that will keep you guessing.,"Action, Horror, Documentary"
+s00391,Movie,Ocean Mysteries 1185,nan,,Australia,1/13/2017,1974,87,A family movie for all ages.,"Action, Sci-Fi"
+s00392,Movie,Starlight Journey 691,nan,"Actor E, Actor A",India,,2013,168,A family movie for all ages.,"Sci-Fi, Thriller, Romance"
+s00393,TV Show,Medical Heroes,nan,"Actor E, Actor D",South Korea,1/5/2020,2017,5 Season(s),A mystery that will keep you guessing.,Sci-Fi
+s00394,Movie,Silent Forest 490,Steven Spielberg,"Actor A, Actor B",United States,10/15/2014,1992,88,A family movie for all ages.,Comedy
+s00395,TV Show,Beyond Borders,Maria Garcia,"Actor B, Actor D",United States,3/1/2017,2018,6 Season(s),A sci-fi exploration of future technology.,"Action, Comedy"
+s00396,TV Show,Undercover,Maria Garcia,,Mexico,6/26/2018,2002,6 Season(s),A family movie for all ages.,"Documentary, Drama"
+s00397,Movie,Hidden Truth 1240,Jane Doe,"Actor D, Actor B, Actor E, Actor A",Germany,9/24/2011,1991,85,A romantic tale set in a distant land.,"Documentary, Action"
+s00398,TV Show,Family Ties,John Smith,"Actor E, Actor B, Actor D, Actor C",India,9/13/2014,2010,3 Season(s),A thrilling adventure about discovery.,"Action, Comedy, Thriller"
+s00399,TV Show,Family Ties,Christopher Nolan,"Actor B, Actor C",Germany,4/20/2013,2005,7 Season(s),A comedy that will make you laugh.,"Sci-Fi, Comedy, Horror"
+s00400,Movie,Moonlight Dreams 217,nan,"Actor A, Actor B, Actor C",nan,6/27/2018,1998,115,A comedy that will make you laugh.,"Drama, Documentary, Thriller"
+s00401,TV Show,Tech Wars,Maria Garcia,"Actor A, Actor E, Actor C",Germany,3/14/2013,1988,1 Season(s),A documentary about nature.,Comedy
+s00402,Movie,Secret Agent X 1247,Christopher Nolan,"Actor E, Actor B, Actor C",Australia,4/14/2016,2008,111,A heartwarming story of friendship.,Sci-Fi
+s00403,TV Show,Space Explorers,David Lee,"Actor A, Actor E",Germany,1/21/2012,1982,6 Season(s),A thrilling adventure about discovery.,"Sci-Fi, Action"
+s00404,Movie,Urban Legends 427,John Smith,"Actor B, Actor A",United States,6/19/2012,1991,171,A mystery that will keep you guessing.,"Comedy, Thriller, Drama"
+s00405,TV Show,Tech Wars,Christopher Nolan,Actor C,Australia,5/10/2015,1977,5 Season(s),A romantic tale set in a distant land.,Sci-Fi
+s00406,Movie,Silent Forest 1318,nan,"Actor C, Actor B, Actor D, Actor E",United States,,1999,89,A sci-fi exploration of future technology.,"Drama, Thriller"
+s00407,Movie,Broken Chains 151,nan,"Actor D, Actor C, Actor B, Actor E",South Korea,8/3/2015,2015,86,A documentary about nature.,"Thriller, Sci-Fi"
+s00408,TV Show,Space Explorers,Maria Garcia,Actor D,India,6/13/2017,2008,7 Season(s),A heartwarming story of friendship.,Action
+s00409,Movie,Digital Ghost 308,Christopher Nolan,"Actor C, Actor E",France,3/4/2019,1969,122,A heartwarming story of friendship.,Comedy
+s00410,Movie,Wild Expedition 1970,nan,"Actor B, Actor C",India,4/22/2017,1997,162,An action-packed thriller.,"Comedy, Thriller"
+s00411,TV Show,Tech Wars,John Smith,"Actor A, Actor C, Actor B",United States,12/11/2020,2020,7 Season(s),A thrilling adventure about discovery.,"Drama, Action"
+s00412,TV Show,Beyond Borders,Jane Doe,"Actor C, Actor E, Actor B",United States,11/9/2021,2013,1 Season(s),A romantic tale set in a distant land.,"Comedy, Sci-Fi, Action"
+s00413,Movie,Time Paradox 1365,John Smith,Actor C,nan,3/20/2012,2003,81,An intense drama about life choices.,"Comedy, Romance, Action"
+s00414,Movie,The Last Adventure 1015,Maria Garcia,Actor B,nan,10/24/2012,1979,171,A sci-fi exploration of future technology.,Thriller
+s00415,Movie,Time Paradox 669,Maria Garcia,,United Kingdom,4/11/2015,2014,104,A documentary about nature.,"Sci-Fi, Action"
+s00416,Movie,Mountain Echo 517,John Smith,"Actor D, Actor E, Actor A, Actor C",nan,5/12/2020,1995,177,A mystery that will keep you guessing.,"Thriller, Drama"
+s00417,Movie,Urban Legends 86,David Lee,Actor E,Australia,6/3/2022,1999,93,A comedy that will make you laugh.,"Action, Drama"
+s00418,Movie,Urban Legends 1826,nan,,Japan,5/14/2021,1960,85,A documentary about nature.,"Drama, Thriller, Action"
+s00419,TV Show,Mystery Valley,Jane Doe,"Actor C, Actor E, Actor B",United States,5/21/2021,1984,6 Season(s),A family movie for all ages.,Romance
+s00420,TV Show,Legal Minds,nan,"Actor A, Actor D, Actor E, Actor C",Mexico,8/28/2020,1978,7 Season(s),A heartwarming story of friendship.,"Documentary, Horror"
+s00421,TV Show,Legal Minds,nan,Actor A,Canada,3/26/2021,1999,2 Season(s),A mystery that will keep you guessing.,"Action, Comedy, Children & Family"
+s00422,Movie,Neon Nights 1994,John Smith,Actor D,South Korea,11/25/2012,2015,91,A sci-fi exploration of future technology.,"Documentary, Sci-Fi, Action"
+s00423,Movie,Hidden Truth 2002,John Smith,"Actor A, Actor E",Australia,7/15/2013,1968,92,A romantic tale set in a distant land.,Action
+s00424,Movie,Starlight Journey 1562,David Lee,"Actor A, Actor D, Actor C",Australia,8/16/2019,1973,74,An intense drama about life choices.,Action
+s00425,Movie,Time Paradox 303,Maria Garcia,"Actor C, Actor E",France,11/16/2012,1968,111,A family movie for all ages.,"Drama, Documentary"
+s00426,Movie,Time Paradox 1905,nan,"Actor D, Actor C, Actor B",United States,2/26/2019,2009,116,A mystery that will keep you guessing.,"Action, Sci-Fi, Drama"
+s00427,TV Show,Beyond Borders,John Smith,"Actor A, Actor E, Actor C",United Kingdom,7/14/2016,1979,7 Season(s),A mystery that will keep you guessing.,"Romance, Action"
+s00428,Movie,Time Paradox 345,nan,"Actor A, Actor B, Actor C, Actor E",United Kingdom,4/4/2018,1994,94,A heartwarming story of friendship.,"Sci-Fi, Romance, Comedy"
+s00429,Movie,Lost Kingdom 1988,Christopher Nolan,,United States,4/6/2010,1978,150,A thrilling adventure about discovery.,"Action, Thriller"
+s00430,Movie,The Last Adventure 1025,Christopher Nolan,"Actor E, Actor B, Actor D",Canada,6/5/2013,1995,73,A family movie for all ages.,Comedy
+s00431,TV Show,Family Ties,David Lee,"Actor E, Actor A",France,10/9/2018,1999,3 Season(s),A heartwarming story of friendship.,"Action, Comedy, Drama"
+s00432,Movie,Wild Expedition 1678,James Cameron,,South Korea,12/24/2013,1996,60,A documentary about nature.,"Romance, Sci-Fi"
+s00433,Movie,Wild Expedition 1093,Quentin Tarantino,"Actor D, Actor C, Actor E",United States,2/13/2013,1994,83,A family movie for all ages.,Romance
+s00434,Movie,Echoes of Yesterday 1626,Jane Doe,"Actor B, Actor A, Actor E",India,1/21/2011,1990,88,An intense drama about life choices.,"Action, Thriller, Romance"
+s00435,TV Show,Medical Heroes,James Cameron,"Actor D, Actor E",United States,9/5/2015,2015,5 Season(s),A comedy that will make you laugh.,Horror
+s00436,Movie,Moonlight Dreams 1010,Christopher Nolan,,United States,,2019,68,A documentary about nature.,Documentary
+s00437,TV Show,Space Explorers,nan,,United States,4/1/2010,1994,7 Season(s),An intense drama about life choices.,Sci-Fi
+s00438,TV Show,Medical Heroes,Quentin Tarantino,"Actor E, Actor C, Actor B, Actor A",Spain,,1991,8 Season(s),A romantic tale set in a distant land.,Thriller
+s00439,Movie,Echoes of Yesterday 1185,nan,Actor A,United States,2/12/2019,2013,88,A heartwarming story of friendship.,"Thriller, Comedy, Action"
+s00440,Movie,Echoes of Yesterday 1113,nan,"Actor C, Actor D, Actor A, Actor E",Spain,11/4/2016,1987,179,An intense drama about life choices.,"Children & Family, Thriller"
+s00441,TV Show,Space Explorers,nan,"Actor A, Actor E, Actor D, Actor B",United States,11/1/2015,1985,2 Season(s),A thrilling adventure about discovery.,"Drama, Romance"
+s00442,Movie,Digital Ghost 585,Christopher Nolan,Actor A,South Korea,8/21/2013,1990,90,An action-packed thriller.,"Action, Documentary, Thriller"
+s00443,Movie,Digital Ghost 1183,nan,Actor C,Australia,8/27/2010,2009,134,A comedy that will make you laugh.,"Comedy, Action"
+s00444,TV Show,Mystery Valley,Maria Garcia,,nan,2/27/2013,2011,1 Season(s),A romantic tale set in a distant land.,"Romance, Children & Family, Documentary"
+s00445,TV Show,Family Ties,David Lee,,South Korea,5/18/2011,2020,2 Season(s),A mystery that will keep you guessing.,"Comedy, Children & Family, Action"
+s00446,TV Show,Beyond Borders,David Lee,Actor B,Mexico,1/16/2015,1983,8 Season(s),A heartwarming story of friendship.,Documentary
+s00447,TV Show,Tech Wars,nan,"Actor E, Actor B",South Korea,2/14/2016,2012,8 Season(s),A documentary about nature.,Documentary
+s00448,Movie,Mountain Echo 494,Jane Doe,"Actor D, Actor A",France,11/27/2010,1967,91,An action-packed thriller.,"Sci-Fi, Romance, Action"
+s00449,Movie,Desert Winds 1638,nan,Actor E,United States,5/5/2018,1964,63,A family movie for all ages.,"Drama, Documentary, Sci-Fi"
+s00450,TV Show,Family Ties,Maria Garcia,"Actor A, Actor E, Actor C",United States,5/6/2021,1963,6 Season(s),A heartwarming story of friendship.,"Comedy, Romance, Sci-Fi"
+s00451,Movie,Mountain Echo 1506,nan,Actor D,United States,4/24/2020,2001,89,A sci-fi exploration of future technology.,Sci-Fi
+s00452,Movie,Hidden Truth 397,nan,"Actor A, Actor D, Actor E",Japan,9/24/2018,1995,169,A heartwarming story of friendship.,"Documentary, Romance, Sci-Fi"
+s00453,TV Show,Mystery Valley,Quentin Tarantino,Actor C,India,11/4/2020,1975,3 Season(s),A sci-fi exploration of future technology.,"Action, Sci-Fi"
+s00454,Movie,Final Frontier 1389,nan,"Actor D, Actor E, Actor A",South Korea,5/22/2018,1998,145,A mystery that will keep you guessing.,"Children & Family, Action, Romance"
+s00455,Movie,Neon Nights 1665,Christopher Nolan,"Actor C, Actor E, Actor B",nan,10/8/2020,1993,123,A romantic tale set in a distant land.,"Romance, Documentary"
+s00456,Movie,Secret Agent X 1625,Christopher Nolan,"Actor E, Actor A",India,10/28/2010,1995,90,A comedy that will make you laugh.,Drama
+s00457,Movie,Urban Legends 1089,Christopher Nolan,"Actor A, Actor E, Actor C",India,12/27/2018,1964,166,A heartwarming story of friendship.,"Action, Thriller"
+s00458,Movie,Silent Forest 711,Jane Doe,"Actor B, Actor D",nan,10/17/2017,1990,79,A mystery that will keep you guessing.,"Romance, Thriller, Drama"
+s00459,Movie,Urban Legends 917,David Lee,,United States,3/25/2016,1994,145,A family movie for all ages.,"Action, Documentary, Drama"
+s00460,Movie,Final Frontier 828,Christopher Nolan,Actor C,Germany,,1987,141,An action-packed thriller.,"Sci-Fi, Comedy, Drama"
+s00461,Movie,The Last Adventure 305,Christopher Nolan,Actor A,United States,2/14/2011,1996,86,A thrilling adventure about discovery.,"Comedy, Drama"
+s00462,TV Show,Space Explorers,nan,Actor D,France,12/16/2019,1991,7 Season(s),An intense drama about life choices.,Comedy
+s00463,Movie,Starlight Journey 291,nan,Actor E,United States,8/13/2019,1997,94,A mystery that will keep you guessing.,"Documentary, Romance"
+s00464,TV Show,Beyond Borders,nan,Actor C,South Korea,12/11/2019,2013,5 Season(s),An action-packed thriller.,Drama
+s00465,Movie,Mountain Echo 2010,nan,"Actor A, Actor E, Actor C",Canada,2/13/2020,1991,97,A sci-fi exploration of future technology.,Action
+s00466,Movie,Neon Nights 867,nan,"Actor B, Actor E, Actor A",United States,3/27/2010,1982,93,A mystery that will keep you guessing.,"Drama, Romance, Action"
+s00467,TV Show,Space Explorers,Steven Spielberg,,United States,1/7/2016,2022,7 Season(s),A family movie for all ages.,"Thriller, Drama"
+s00468,Movie,Lost Kingdom 974,Jane Doe,"Actor E, Actor C",India,7/8/2013,1997,87,A mystery that will keep you guessing.,"Drama, Action"
+s00469,TV Show,Tech Wars,nan,"Actor D, Actor A",nan,10/18/2022,1996,8 Season(s),A comedy that will make you laugh.,"Thriller, Sci-Fi, Action"
+s00470,Movie,Moonlight Dreams 942,James Cameron,Actor C,Germany,,1969,77,A sci-fi exploration of future technology.,"Comedy, Drama"
+s00471,TV Show,Mystery Valley,David Lee,"Actor D, Actor E, Actor B",India,,1991,8 Season(s),A heartwarming story of friendship.,"Action, Thriller"
+s00472,Movie,Cyber Revolution 85,Christopher Nolan,"Actor A, Actor D, Actor C, Actor B",United Kingdom,6/17/2020,1987,63,A documentary about nature.,"Comedy, Romance"
+s00473,TV Show,Tech Wars,Jane Doe,,India,3/10/2016,1977,7 Season(s),A thrilling adventure about discovery.,"Romance, Action"
+s00474,Movie,Time Paradox 816,Maria Garcia,"Actor E, Actor C",Spain,12/17/2012,1975,68,A heartwarming story of friendship.,"Sci-Fi, Children & Family, Documentary"
+s00475,TV Show,Tech Wars,David Lee,,Germany,6/17/2010,1970,8 Season(s),An intense drama about life choices.,"Action, Drama"
+s00476,Movie,Mountain Echo 1948,Maria Garcia,"Actor D, Actor A",United Kingdom,,2021,163,A mystery that will keep you guessing.,Comedy
+s00477,Movie,Silent Forest 1157,David Lee,Actor A,Spain,9/20/2015,1971,122,A romantic tale set in a distant land.,"Sci-Fi, Drama, Action"
+s00478,TV Show,Tech Wars,Christopher Nolan,"Actor A, Actor E",France,,1987,1 Season(s),A mystery that will keep you guessing.,Drama
+s00479,Movie,Wild Expedition 1317,Steven Spielberg,"Actor E, Actor C, Actor A, Actor D",nan,2/16/2012,1976,86,A sci-fi exploration of future technology.,"Drama, Action"
+s00480,Movie,Urban Legends 1324,nan,,Mexico,7/5/2015,1997,89,A comedy that will make you laugh.,"Comedy, Sci-Fi"
+s00481,Movie,Desert Winds 783,David Lee,,Germany,1/13/2011,2015,163,A mystery that will keep you guessing.,"Romance, Sci-Fi"
+s00482,Movie,Neon Nights 944,Steven Spielberg,"Actor E, Actor C, Actor D",Spain,12/27/2014,2005,113,An intense drama about life choices.,Action
+s00483,Movie,Mountain Echo 1838,nan,"Actor A, Actor D",United States,4/2/2019,2006,87,A family movie for all ages.,Thriller
+s00484,Movie,Hidden Truth 364,Quentin Tarantino,,Australia,7/11/2021,1969,170,A mystery that will keep you guessing.,"Drama, Action"
+s00485,TV Show,Family Ties,John Smith,"Actor A, Actor C, Actor E, Actor B",India,6/17/2020,2019,4 Season(s),A heartwarming story of friendship.,"Comedy, Romance"
+s00486,Movie,Neon Nights 1005,Steven Spielberg,"Actor A, Actor B",United States,5/20/2015,2016,88,A documentary about nature.,"Comedy, Documentary, Thriller"
+s00487,Movie,Neon Nights 1015,nan,,United Kingdom,6/16/2015,2005,177,A romantic tale set in a distant land.,"Sci-Fi, Drama"
+s00488,TV Show,Space Explorers,David Lee,"Actor B, Actor D, Actor E",Australia,,1975,8 Season(s),An intense drama about life choices.,"Romance, Action"
+s00489,TV Show,Legal Minds,Quentin Tarantino,,United States,12/9/2013,1993,2 Season(s),An intense drama about life choices.,"Comedy, Horror, Documentary"
+s00490,Movie,Urban Legends 793,nan,,India,5/14/2011,1988,88,A sci-fi exploration of future technology.,"Documentary, Action, Romance"
+s00491,Movie,Desert Winds 715,John Smith,Actor E,India,8/8/2013,1969,164,An intense drama about life choices.,Documentary
+s00492,Movie,Final Frontier 1807,James Cameron,Actor D,United States,,2000,77,A romantic tale set in a distant land.,"Drama, Action"
+s00493,Movie,Desert Winds 789,Steven Spielberg,,United States,9/21/2019,2003,65,A heartwarming story of friendship.,Documentary
+s00494,Movie,Digital Ghost 470,James Cameron,"Actor D, Actor B",Australia,2/10/2010,2019,87,A documentary about nature.,"Romance, Action, Documentary"
+s00495,Movie,Final Frontier 1826,Christopher Nolan,Actor E,Australia,1/4/2013,2000,80,An action-packed thriller.,Romance
+s00496,Movie,Lost Kingdom 1917,Maria Garcia,,United States,1/9/2013,2019,172,A mystery that will keep you guessing.,Action
+s00497,Movie,Desert Winds 1008,nan,,South Korea,4/5/2022,2010,86,An intense drama about life choices.,"Comedy, Action, Romance"
+s00498,TV Show,Undercover,Maria Garcia,,Germany,6/5/2016,1976,4 Season(s),A family movie for all ages.,Action
+s00499,TV Show,Beyond Borders,Quentin Tarantino,,India,7/28/2010,2020,5 Season(s),A comedy that will make you laugh.,Comedy
+s00500,Movie,Lost Kingdom 1563,Christopher Nolan,"Actor E, Actor C, Actor B, Actor A",Spain,,1998,93,A family movie for all ages.,Documentary
+s00501,Movie,Urban Legends 1180,Quentin Tarantino,,nan,10/15/2011,2016,87,A heartwarming story of friendship.,"Comedy, Thriller, Documentary"
+s00502,Movie,Cyber Revolution 1672,John Smith,"Actor B, Actor A",India,10/9/2021,2009,111,An action-packed thriller.,Children & Family
+s00503,TV Show,Space Explorers,nan,"Actor A, Actor C",United States,,2013,7 Season(s),A sci-fi exploration of future technology.,"Action, Children & Family, Documentary"
+s00504,Movie,Future Shock 1444,Steven Spielberg,"Actor D, Actor C",Mexico,4/16/2016,1976,87,A heartwarming story of friendship.,"Comedy, Thriller, Drama"
+s00505,Movie,Hidden Truth 2,nan,,Japan,4/24/2013,1999,74,A family movie for all ages.,Comedy
+s00506,TV Show,Mystery Valley,nan,Actor E,United States,6/28/2022,1961,6 Season(s),A romantic tale set in a distant land.,"Thriller, Comedy, Drama"
+s00507,TV Show,Undercover,John Smith,"Actor C, Actor A, Actor B, Actor E",Canada,1/7/2014,1990,8 Season(s),A mystery that will keep you guessing.,"Thriller, Comedy, Children & Family"
+s00508,TV Show,Beyond Borders,nan,Actor A,India,7/22/2020,1979,5 Season(s),A heartwarming story of friendship.,"Thriller, Action"
+s00509,TV Show,Tech Wars,Maria Garcia,,South Korea,11/18/2014,2018,3 Season(s),A thrilling adventure about discovery.,"Comedy, Action, Horror"
+s00510,Movie,Neon Nights 1287,David Lee,,India,1/5/2021,2017,109,A mystery that will keep you guessing.,Comedy
+s00511,Movie,Silent Forest 1610,Maria Garcia,Actor E,United States,2/1/2016,1968,113,A thrilling adventure about discovery.,"Drama, Comedy"
+s00512,TV Show,Legal Minds,John Smith,"Actor A, Actor C",France,12/11/2014,2003,6 Season(s),An intense drama about life choices.,"Comedy, Action, Sci-Fi"
+s00513,TV Show,Undercover,Quentin Tarantino,"Actor C, Actor E",India,1/17/2011,1996,1 Season(s),A comedy that will make you laugh.,Comedy
+s00514,Movie,Secret Agent X 959,Jane Doe,"Actor A, Actor C, Actor D",United States,10/16/2013,1971,88,A heartwarming story of friendship.,Drama
+s00515,Movie,Starlight Journey 1962,James Cameron,Actor C,Canada,4/10/2015,1979,87,A mystery that will keep you guessing.,Sci-Fi
+s00516,Movie,Future Shock 952,Maria Garcia,"Actor D, Actor A",Australia,,1998,115,A sci-fi exploration of future technology.,"Sci-Fi, Comedy, Horror"
+s00517,TV Show,Beyond Borders,Steven Spielberg,,United States,,1992,2 Season(s),A thrilling adventure about discovery.,"Drama, Comedy"
+s00518,TV Show,Beyond Borders,nan,"Actor C, Actor B",Japan,9/25/2014,2002,1 Season(s),A documentary about nature.,"Horror, Romance"
+s00519,Movie,Desert Winds 1910,nan,Actor D,United Kingdom,4/13/2019,1980,92,A family movie for all ages.,Children & Family
+s00520,Movie,Secret Agent X 1846,John Smith,"Actor D, Actor A",United States,1/19/2020,1990,88,A mystery that will keep you guessing.,"Action, Children & Family, Comedy"
+s00521,Movie,The Last Adventure 1196,Steven Spielberg,,United Kingdom,7/16/2018,1969,143,A comedy that will make you laugh.,"Action, Horror"
+s00522,TV Show,Space Explorers,nan,Actor A,United Kingdom,4/7/2012,1974,6 Season(s),A heartwarming story of friendship.,"Action, Thriller, Comedy"
+s00523,TV Show,Undercover,nan,Actor B,Australia,2/28/2021,1972,5 Season(s),A mystery that will keep you guessing.,"Children & Family, Documentary"
+s00524,TV Show,Tech Wars,nan,Actor D,United States,7/22/2016,1977,7 Season(s),A heartwarming story of friendship.,Sci-Fi
+s00525,Movie,Urban Legends 891,James Cameron,"Actor B, Actor A, Actor C, Actor E",Spain,8/19/2021,1990,120,A romantic tale set in a distant land.,"Thriller, Action, Children & Family"
+s00526,Movie,Digital Ghost 887,John Smith,,United States,11/18/2012,1995,122,A thrilling adventure about discovery.,"Action, Drama"
+s00527,Movie,Echoes of Yesterday 1050,Steven Spielberg,"Actor B, Actor D",nan,5/1/2011,1991,87,A mystery that will keep you guessing.,Comedy
+s00528,Movie,Echoes of Yesterday 1807,Steven Spielberg,,Japan,5/18/2019,2016,136,A mystery that will keep you guessing.,Action
+s00529,TV Show,Tech Wars,nan,"Actor E, Actor A, Actor B",Spain,8/17/2013,2016,1 Season(s),A comedy that will make you laugh.,"Thriller, Comedy, Documentary"
+s00530,TV Show,Space Explorers,nan,"Actor C, Actor D, Actor A, Actor B",United States,,1991,1 Season(s),A comedy that will make you laugh.,Children & Family
+s00531,TV Show,Tech Wars,Maria Garcia,Actor C,India,10/4/2019,1996,6 Season(s),A family movie for all ages.,"Documentary, Comedy"
+s00532,TV Show,Mystery Valley,nan,"Actor B, Actor A, Actor C, Actor E",United States,2/1/2020,1985,5 Season(s),A sci-fi exploration of future technology.,Thriller
+s00533,Movie,Future Shock 584,Maria Garcia,"Actor D, Actor A",Mexico,1/12/2011,1987,169,A heartwarming story of friendship.,"Action, Romance, Horror"
+s00534,TV Show,Space Explorers,John Smith,"Actor A, Actor E",India,10/18/2015,1969,8 Season(s),An action-packed thriller.,"Action, Comedy, Drama"
+s00535,TV Show,Space Explorers,Jane Doe,"Actor C, Actor B, Actor E",Japan,3/26/2019,1994,1 Season(s),A family movie for all ages.,"Comedy, Drama, Documentary"
+s00536,TV Show,Mystery Valley,nan,,Spain,,2012,8 Season(s),A comedy that will make you laugh.,"Sci-Fi, Comedy, Documentary"
+s00537,Movie,Ocean Mysteries 1604,Christopher Nolan,"Actor A, Actor E, Actor D",United Kingdom,2/26/2022,1986,159,An action-packed thriller.,Action
+s00538,Movie,Hidden Truth 664,nan,,Spain,11/22/2017,1995,159,An intense drama about life choices.,"Action, Comedy, Documentary"
+s00539,Movie,Final Frontier 1636,nan,,France,8/13/2017,1996,82,An action-packed thriller.,Sci-Fi
+s00540,TV Show,Beyond Borders,Steven Spielberg,"Actor D, Actor E, Actor B",Spain,6/16/2017,2012,3 Season(s),A thrilling adventure about discovery.,"Thriller, Drama, Documentary"
+s00541,Movie,Secret Agent X 1226,Maria Garcia,Actor D,India,7/14/2015,1977,130,A mystery that will keep you guessing.,Sci-Fi
+s00542,Movie,Hidden Truth 915,nan,"Actor C, Actor B",United Kingdom,10/24/2014,1963,86,A comedy that will make you laugh.,"Children & Family, Action, Romance"
+s00543,Movie,Desert Winds 1994,Maria Garcia,"Actor E, Actor D, Actor C",United States,9/4/2021,2011,106,A mystery that will keep you guessing.,"Romance, Comedy"
+s00544,Movie,The Last Adventure 1463,nan,"Actor A, Actor D",Australia,6/2/2022,2015,91,A family movie for all ages.,Drama
+s00545,Movie,Hidden Truth 581,nan,"Actor B, Actor E",Japan,5/15/2018,2022,86,A romantic tale set in a distant land.,Romance
+s00546,Movie,Urban Legends 1585,John Smith,,India,4/26/2012,1978,71,A comedy that will make you laugh.,"Horror, Action, Romance"
+s00547,Movie,Cyber Revolution 1132,Jane Doe,"Actor D, Actor A, Actor B",Mexico,1/13/2017,1997,94,A comedy that will make you laugh.,Action
+s00548,Movie,Moonlight Dreams 673,nan,"Actor E, Actor C, Actor A, Actor D",United States,7/11/2021,1960,93,A documentary about nature.,Comedy
+s00549,TV Show,Legal Minds,David Lee,"Actor A, Actor C, Actor B",South Korea,1/5/2011,1994,2 Season(s),A mystery that will keep you guessing.,Action
+s00550,Movie,Starlight Journey 662,Steven Spielberg,"Actor C, Actor E, Actor D",nan,10/25/2015,1991,85,A comedy that will make you laugh.,"Sci-Fi, Drama"
+s00551,TV Show,Space Explorers,Christopher Nolan,"Actor B, Actor E, Actor C, Actor D",South Korea,5/15/2021,1996,6 Season(s),A romantic tale set in a distant land.,Thriller
+s00552,Movie,Ocean Mysteries 1679,Maria Garcia,,Australia,5/3/2018,1993,146,A romantic tale set in a distant land.,"Comedy, Drama, Sci-Fi"
+s00553,Movie,Cyber Revolution 988,nan,"Actor B, Actor C, Actor A, Actor E",United Kingdom,,1993,92,A thrilling adventure about discovery.,"Drama, Action, Romance"
+s00554,TV Show,Legal Minds,nan,"Actor D, Actor B",United States,8/19/2022,1992,7 Season(s),A heartwarming story of friendship.,Documentary
+s00555,Movie,Neon Nights 650,David Lee,,Spain,2/11/2011,1960,65,A comedy that will make you laugh.,Comedy
+s00556,Movie,Echoes of Yesterday 590,Steven Spielberg,Actor E,United Kingdom,3/5/2019,2013,86,A romantic tale set in a distant land.,"Comedy, Thriller, Romance"
+s00557,Movie,Digital Ghost 509,James Cameron,,United States,10/19/2022,1965,86,A romantic tale set in a distant land.,Action
+s00558,TV Show,Mystery Valley,nan,Actor A,Germany,8/24/2012,1963,8 Season(s),A thrilling adventure about discovery.,"Action, Drama"
+s00559,Movie,Moonlight Dreams 1344,Steven Spielberg,"Actor E, Actor B, Actor D, Actor A",United Kingdom,2/12/2019,2013,91,A documentary about nature.,Comedy
+s00560,TV Show,Family Ties,James Cameron,,Mexico,5/23/2011,2002,8 Season(s),A heartwarming story of friendship.,"Romance, Thriller, Horror"
+s00561,Movie,Secret Agent X 1621,Steven Spielberg,Actor C,Australia,7/21/2010,1998,138,A sci-fi exploration of future technology.,"Drama, Action, Thriller"
+s00562,Movie,Hidden Truth 1859,David Lee,"Actor A, Actor B, Actor D, Actor E",Australia,8/12/2010,1994,103,A comedy that will make you laugh.,"Action, Comedy"
+s00563,Movie,Future Shock 1398,nan,Actor D,Germany,5/24/2019,2019,90,A sci-fi exploration of future technology.,"Drama, Children & Family, Comedy"
+s00564,Movie,Secret Agent X 1961,James Cameron,"Actor A, Actor E",South Korea,5/28/2019,2019,86,A sci-fi exploration of future technology.,"Comedy, Romance"
+s00565,Movie,Starlight Journey 459,John Smith,"Actor D, Actor E, Actor A",Australia,2/6/2012,1994,65,A family movie for all ages.,Drama
+s00566,Movie,Secret Agent X 1304,David Lee,"Actor A, Actor C, Actor B, Actor E",Japan,4/27/2019,2001,88,A documentary about nature.,"Romance, Sci-Fi"
+s00567,Movie,Lost Kingdom 1555,nan,Actor A,United States,6/17/2017,2007,116,A family movie for all ages.,"Documentary, Thriller"
+s00568,TV Show,Beyond Borders,Steven Spielberg,"Actor B, Actor C, Actor D",South Korea,12/27/2022,1999,8 Season(s),A mystery that will keep you guessing.,"Romance, Thriller, Action"
+s00569,Movie,Mountain Echo 554,John Smith,"Actor B, Actor E, Actor C",Australia,3/19/2015,1993,92,An action-packed thriller.,Thriller
+s00570,Movie,Secret Agent X 621,Jane Doe,"Actor D, Actor B",India,11/26/2012,1985,117,A thrilling adventure about discovery.,Horror
+s00571,TV Show,Medical Heroes,nan,"Actor B, Actor E, Actor D",United States,8/2/2013,1982,1 Season(s),A romantic tale set in a distant land.,"Comedy, Documentary"
+s00572,Movie,Desert Winds 744,John Smith,Actor D,Japan,7/20/2020,1968,168,A romantic tale set in a distant land.,Drama
+s00573,Movie,Ocean Mysteries 353,Steven Spielberg,"Actor A, Actor D",United States,1/4/2016,1987,117,A heartwarming story of friendship.,Drama
+s00574,TV Show,Beyond Borders,David Lee,"Actor A, Actor D, Actor E",Mexico,12/13/2013,1996,7 Season(s),A documentary about nature.,"Romance, Action, Drama"
+s00575,TV Show,Family Ties,nan,,nan,2/14/2019,1992,2 Season(s),A romantic tale set in a distant land.,Action
+s00576,Movie,Echoes of Yesterday 648,Christopher Nolan,"Actor C, Actor B, Actor A",United States,10/24/2010,2007,72,A family movie for all ages.,"Documentary, Horror, Comedy"
+s00577,TV Show,Mystery Valley,nan,Actor B,France,2/14/2012,2003,2 Season(s),An action-packed thriller.,Documentary
+s00578,Movie,Mountain Echo 425,Steven Spielberg,"Actor C, Actor A, Actor D, Actor B",United States,3/8/2012,2008,134,A family movie for all ages.,Documentary
+s00579,Movie,Secret Agent X 708,Maria Garcia,,Spain,11/1/2012,1992,83,A sci-fi exploration of future technology.,Sci-Fi
+s00580,Movie,Digital Ghost 561,John Smith,Actor E,United Kingdom,7/21/2010,1992,88,A mystery that will keep you guessing.,"Horror, Documentary, Drama"
+s00581,TV Show,Beyond Borders,nan,Actor D,France,11/27/2017,1991,8 Season(s),A romantic tale set in a distant land.,Romance
+s00582,Movie,Moonlight Dreams 956,Jane Doe,"Actor B, Actor C, Actor D, Actor E",United Kingdom,12/17/2015,2001,94,A sci-fi exploration of future technology.,Horror
+s00583,Movie,Ocean Mysteries 428,nan,"Actor D, Actor A, Actor B",United States,2/22/2017,2020,136,A romantic tale set in a distant land.,Drama
+s00584,Movie,Time Paradox 1254,nan,,India,8/26/2015,1976,137,A comedy that will make you laugh.,"Sci-Fi, Action"
+s00585,Movie,Time Paradox 1586,David Lee,Actor C,United States,6/21/2014,1999,90,An intense drama about life choices.,"Action, Documentary"
+s00586,Movie,Cyber Revolution 1014,nan,"Actor C, Actor A, Actor E",Canada,4/25/2016,1983,99,A thrilling adventure about discovery.,"Romance, Comedy, Sci-Fi"
+s00587,Movie,Silent Forest 381,nan,"Actor D, Actor E, Actor C",United States,10/18/2022,1997,89,A thrilling adventure about discovery.,"Romance, Comedy"
+s00588,Movie,Cyber Revolution 342,Christopher Nolan,Actor A,India,5/26/2017,1992,145,A romantic tale set in a distant land.,"Documentary, Comedy"
+s00589,Movie,Mountain Echo 1154,Jane Doe,"Actor A, Actor E, Actor C, Actor B",South Korea,9/26/2017,1997,151,An action-packed thriller.,"Action, Documentary"
+s00590,Movie,Silent Forest 770,nan,,Australia,4/12/2021,1993,106,A documentary about nature.,Drama
+s00591,Movie,Mountain Echo 1233,Steven Spielberg,,South Korea,5/6/2021,1982,134,A heartwarming story of friendship.,"Action, Romance, Documentary"
+s00592,Movie,Cyber Revolution 354,nan,"Actor A, Actor C",Mexico,11/5/2016,2022,123,An action-packed thriller.,"Drama, Action, Thriller"
+s00593,Movie,Broken Chains 1288,nan,"Actor C, Actor A, Actor D, Actor E",United States,,2011,129,A documentary about nature.,"Romance, Comedy"
+s00594,TV Show,Medical Heroes,Christopher Nolan,,United States,9/21/2021,1961,1 Season(s),An action-packed thriller.,Drama
+s00595,Movie,Silent Forest 1466,David Lee,"Actor B, Actor A, Actor E",Canada,6/14/2019,2016,175,A comedy that will make you laugh.,"Comedy, Drama"
+s00596,Movie,Desert Winds 453,John Smith,"Actor C, Actor D",South Korea,9/7/2022,2011,140,An action-packed thriller.,"Comedy, Romance"
+s00597,Movie,Digital Ghost 1501,Maria Garcia,"Actor A, Actor E",nan,4/2/2011,2020,96,A heartwarming story of friendship.,"Sci-Fi, Drama, Action"
+s00598,Movie,Urban Legends 1017,Christopher Nolan,"Actor A, Actor D",United States,3/4/2021,1997,172,A thrilling adventure about discovery.,"Drama, Documentary, Sci-Fi"
+s00599,Movie,Wild Expedition 618,Christopher Nolan,,United Kingdom,,2007,85,An action-packed thriller.,"Thriller, Romance"
+s00600,Movie,Wild Expedition 1036,David Lee,Actor C,United States,9/21/2018,1980,170,A family movie for all ages.,Action
+s00601,Movie,Starlight Journey 1424,nan,,Germany,9/12/2016,2006,111,A documentary about nature.,Action
+s00602,Movie,Silent Forest 1672,nan,"Actor A, Actor C, Actor B",Japan,11/11/2011,1966,91,A mystery that will keep you guessing.,"Action, Romance, Comedy"
+s00603,Movie,Broken Chains 515,Maria Garcia,,United States,5/20/2015,1981,143,A documentary about nature.,Thriller
+s00604,Movie,Wild Expedition 1566,Christopher Nolan,,India,2/17/2017,1999,148,A thrilling adventure about discovery.,Comedy
+s00605,Movie,Digital Ghost 1303,David Lee,,France,5/27/2018,2021,107,An action-packed thriller.,"Comedy, Sci-Fi, Documentary"
+s00606,Movie,Final Frontier 1128,Quentin Tarantino,,Germany,2/8/2016,2005,65,A family movie for all ages.,Action
+s00607,Movie,Ocean Mysteries 2004,nan,"Actor E, Actor A, Actor C, Actor D",United States,5/28/2021,1989,111,An action-packed thriller.,"Documentary, Children & Family, Action"
+s00608,Movie,Time Paradox 1272,nan,"Actor B, Actor A, Actor D",South Korea,,1996,90,An action-packed thriller.,Documentary
+s00609,Movie,Silent Forest 321,nan,,Canada,,2005,76,A romantic tale set in a distant land.,"Documentary, Thriller, Drama"
+s00610,Movie,Broken Chains 1990,nan,Actor C,Australia,4/21/2018,1998,144,A comedy that will make you laugh.,"Thriller, Comedy, Sci-Fi"
+s00611,TV Show,Medical Heroes,Christopher Nolan,Actor A,Australia,1/25/2010,1999,8 Season(s),A heartwarming story of friendship.,"Thriller, Children & Family"
+s00612,Movie,Hidden Truth 456,nan,"Actor A, Actor C, Actor B",United States,2/13/2022,1997,86,A comedy that will make you laugh.,Action
+s00613,Movie,Secret Agent X 800,Jane Doe,"Actor B, Actor D, Actor E",United States,6/28/2013,2016,87,A mystery that will keep you guessing.,Action
+s00614,TV Show,Mystery Valley,nan,Actor E,Spain,5/3/2018,1999,8 Season(s),A thrilling adventure about discovery.,"Documentary, Horror, Sci-Fi"
+s00615,TV Show,Undercover,James Cameron,"Actor D, Actor B, Actor C, Actor E",United States,8/4/2018,1974,3 Season(s),An action-packed thriller.,"Action, Romance"
+s00616,Movie,Wild Expedition 460,nan,,Australia,4/25/2018,1989,92,An intense drama about life choices.,Documentary
+s00617,Movie,Mountain Echo 1524,nan,"Actor B, Actor C, Actor D, Actor E",Spain,7/10/2016,1967,71,A comedy that will make you laugh.,"Thriller, Action, Sci-Fi"
+s00618,TV Show,Tech Wars,Christopher Nolan,"Actor E, Actor D",Australia,11/25/2011,2007,2 Season(s),A sci-fi exploration of future technology.,"Action, Romance, Sci-Fi"
+s00619,TV Show,Undercover,Jane Doe,"Actor C, Actor D",United States,8/27/2011,2004,7 Season(s),An intense drama about life choices.,"Romance, Action, Sci-Fi"
+s00620,Movie,Lost Kingdom 1828,nan,,United Kingdom,7/7/2014,1974,112,A comedy that will make you laugh.,"Action, Romance"
+s00621,Movie,The Last Adventure 1687,John Smith,"Actor A, Actor E",France,10/4/2012,1983,125,A sci-fi exploration of future technology.,Thriller
+s00622,Movie,Hidden Truth 749,James Cameron,"Actor D, Actor B, Actor E, Actor A",United States,10/21/2022,1987,150,A thrilling adventure about discovery.,"Comedy, Documentary, Sci-Fi"
+s00623,Movie,Moonlight Dreams 361,Quentin Tarantino,Actor B,Spain,4/19/2012,2021,99,An action-packed thriller.,Drama
+s00624,Movie,Moonlight Dreams 2011,Steven Spielberg,Actor A,Australia,9/16/2021,2020,76,A family movie for all ages.,Drama
+s00625,Movie,Echoes of Yesterday 449,nan,"Actor D, Actor A, Actor B",India,8/15/2011,1961,109,A family movie for all ages.,"Action, Romance"
+s00626,Movie,Neon Nights 835,Maria Garcia,"Actor E, Actor B",Germany,5/10/2010,1972,108,A comedy that will make you laugh.,Horror
+s00627,TV Show,Beyond Borders,Christopher Nolan,"Actor A, Actor E, Actor C",United States,1/16/2013,2015,1 Season(s),An action-packed thriller.,"Drama, Sci-Fi, Documentary"
+s00628,Movie,Desert Winds 1490,Jane Doe,,United Kingdom,3/15/2015,1993,105,A comedy that will make you laugh.,Documentary
+s00629,Movie,Mountain Echo 1443,Jane Doe,Actor A,nan,10/21/2013,1988,85,A thrilling adventure about discovery.,"Comedy, Children & Family, Sci-Fi"
+s00630,TV Show,Medical Heroes,Steven Spielberg,"Actor A, Actor B, Actor E",nan,1/21/2021,1989,2 Season(s),A sci-fi exploration of future technology.,"Romance, Sci-Fi, Drama"
+s00631,TV Show,Family Ties,John Smith,"Actor A, Actor B, Actor D",India,3/25/2016,1975,8 Season(s),An action-packed thriller.,"Comedy, Romance"
+s00632,Movie,Urban Legends 342,Jane Doe,Actor D,Mexico,9/22/2016,1996,162,An intense drama about life choices.,"Thriller, Action, Comedy"
+s00633,Movie,Ocean Mysteries 244,Jane Doe,"Actor C, Actor E",India,7/14/2021,2003,171,A sci-fi exploration of future technology.,"Action, Romance"
+s00634,Movie,Future Shock 12,nan,"Actor E, Actor C",United States,5/14/2015,2003,90,An intense drama about life choices.,Romance
+s00635,Movie,Urban Legends 561,Quentin Tarantino,"Actor E, Actor C, Actor A, Actor B",United States,7/6/2022,1990,175,An intense drama about life choices.,Documentary
+s00636,Movie,Future Shock 678,David Lee,"Actor D, Actor E, Actor B, Actor C",Mexico,1/9/2018,1976,146,A thrilling adventure about discovery.,"Drama, Horror, Action"
+s00637,Movie,Hidden Truth 1453,Maria Garcia,Actor D,United States,7/9/2019,1993,170,A heartwarming story of friendship.,Documentary
+s00638,Movie,Cyber Revolution 1182,Maria Garcia,,Canada,8/7/2014,2003,113,A heartwarming story of friendship.,"Drama, Action, Horror"
+s00639,Movie,Future Shock 1694,David Lee,"Actor B, Actor A, Actor D, Actor C",Canada,11/28/2017,1993,91,An action-packed thriller.,Comedy
+s00640,Movie,Lost Kingdom 134,Maria Garcia,"Actor D, Actor E, Actor B, Actor A",Spain,3/6/2018,1998,115,A mystery that will keep you guessing.,Sci-Fi
+s00641,Movie,Cyber Revolution 1872,nan,"Actor A, Actor D",India,12/13/2011,1990,93,A documentary about nature.,Thriller
+s00642,Movie,Secret Agent X 948,David Lee,"Actor D, Actor B, Actor C",United States,10/11/2021,1960,78,A heartwarming story of friendship.,"Action, Comedy"
+s00643,Movie,Lost Kingdom 73,Maria Garcia,"Actor D, Actor A, Actor E, Actor B",United States,1/8/2011,1993,86,An action-packed thriller.,Comedy
+s00644,Movie,Urban Legends 1429,nan,"Actor A, Actor D, Actor C, Actor E",Japan,,1983,90,An intense drama about life choices.,"Drama, Comedy"
+s00645,TV Show,Family Ties,David Lee,"Actor E, Actor D, Actor B, Actor C",Spain,10/20/2022,1998,6 Season(s),A family movie for all ages.,"Comedy, Action, Sci-Fi"
+s00646,Movie,Moonlight Dreams 859,James Cameron,"Actor C, Actor B",Canada,12/14/2016,1976,142,A heartwarming story of friendship.,"Sci-Fi, Action, Romance"
+s00647,Movie,Moonlight Dreams 931,Quentin Tarantino,"Actor C, Actor B, Actor E",Spain,12/18/2020,1972,94,A thrilling adventure about discovery.,Drama
+s00648,TV Show,Tech Wars,Steven Spielberg,"Actor B, Actor C, Actor D, Actor A",United States,10/9/2022,1993,4 Season(s),An action-packed thriller.,"Romance, Documentary, Children & Family"
+s00649,Movie,Lost Kingdom 1812,nan,"Actor D, Actor C, Actor A",South Korea,4/9/2018,1966,153,A documentary about nature.,"Action, Romance"
+s00650,Movie,Hidden Truth 1792,nan,"Actor B, Actor A, Actor C, Actor E",Canada,12/21/2012,1997,92,A comedy that will make you laugh.,Drama
+s00651,Movie,Future Shock 1561,nan,"Actor E, Actor C, Actor A",United States,3/26/2015,1996,106,A mystery that will keep you guessing.,Comedy
+s00652,Movie,Moonlight Dreams 793,David Lee,"Actor B, Actor C",India,,2003,85,An intense drama about life choices.,Drama
+s00653,TV Show,Undercover,John Smith,"Actor C, Actor E",Australia,8/19/2015,1978,3 Season(s),An intense drama about life choices.,"Drama, Action, Documentary"
+s00654,Movie,The Last Adventure 164,Christopher Nolan,"Actor C, Actor A",South Korea,2/14/2019,1971,133,A comedy that will make you laugh.,"Comedy, Drama, Horror"
+s00655,Movie,Lost Kingdom 833,David Lee,"Actor A, Actor D",United States,12/27/2010,2006,72,A heartwarming story of friendship.,"Comedy, Action, Children & Family"
+s00656,Movie,Lost Kingdom 336,Maria Garcia,"Actor B, Actor C, Actor E, Actor A",Spain,5/17/2022,1989,97,A family movie for all ages.,"Drama, Romance"
+s00657,Movie,Lost Kingdom 381,nan,,United States,9/26/2022,1988,136,A comedy that will make you laugh.,"Romance, Action"
+s00658,Movie,Broken Chains 899,Quentin Tarantino,"Actor A, Actor E",United States,2/15/2021,2019,143,A family movie for all ages.,Documentary
+s00659,Movie,Cyber Revolution 1961,Maria Garcia,"Actor D, Actor B",Canada,12/1/2013,2021,92,An intense drama about life choices.,Comedy
+s00660,Movie,Mountain Echo 1049,David Lee,"Actor B, Actor A, Actor C, Actor E",France,7/28/2011,2003,83,A documentary about nature.,Children & Family
+s00661,TV Show,Undercover,David Lee,"Actor D, Actor E, Actor C",Germany,,1994,7 Season(s),A heartwarming story of friendship.,"Action, Thriller"
+s00662,Movie,Moonlight Dreams 1416,Maria Garcia,,United Kingdom,,1971,90,An action-packed thriller.,Action
+s00663,Movie,Moonlight Dreams 964,nan,"Actor D, Actor A, Actor C",United States,,2021,110,An intense drama about life choices.,"Action, Sci-Fi"
+s00664,Movie,Urban Legends 1604,Quentin Tarantino,"Actor A, Actor B, Actor D",India,8/21/2013,1982,91,A comedy that will make you laugh.,"Action, Horror"
+s00665,Movie,Digital Ghost 1980,nan,"Actor D, Actor B",United States,12/18/2011,2021,94,A family movie for all ages.,Romance
+s00666,Movie,Silent Forest 1824,David Lee,"Actor C, Actor A, Actor B",United States,3/15/2019,1989,131,A family movie for all ages.,Romance
+s00667,Movie,Digital Ghost 543,nan,"Actor D, Actor B, Actor C, Actor A",United Kingdom,12/24/2019,2022,178,An intense drama about life choices.,"Drama, Action"
+s00668,Movie,Lost Kingdom 1556,nan,"Actor D, Actor B, Actor E, Actor C",India,10/23/2019,1997,101,An intense drama about life choices.,Drama
+s00669,Movie,Hidden Truth 989,Jane Doe,Actor A,United States,3/13/2013,2014,93,A documentary about nature.,"Romance, Action, Drama"
+s00670,Movie,Mountain Echo 672,James Cameron,,Canada,6/10/2020,1994,97,A documentary about nature.,"Comedy, Action"
+s00671,TV Show,Undercover,nan,,United States,12/28/2015,1991,6 Season(s),A romantic tale set in a distant land.,"Action, Sci-Fi, Comedy"
+s00672,Movie,Neon Nights 254,Maria Garcia,"Actor E, Actor D",United States,7/2/2011,1996,171,A comedy that will make you laugh.,Thriller
+s00673,Movie,Moonlight Dreams 1084,nan,"Actor C, Actor E",France,2/11/2014,1986,105,A thrilling adventure about discovery.,"Horror, Comedy, Drama"
+s00674,Movie,Final Frontier 287,Steven Spielberg,,United States,,1993,153,A comedy that will make you laugh.,"Drama, Documentary, Horror"
+s00675,TV Show,Family Ties,David Lee,"Actor D, Actor B, Actor E, Actor A",Japan,7/20/2014,2004,2 Season(s),A documentary about nature.,"Documentary, Comedy, Action"
+s00676,Movie,Ocean Mysteries 1491,nan,,United States,5/22/2011,1999,121,A romantic tale set in a distant land.,Action
+s00677,Movie,Moonlight Dreams 778,nan,,India,3/4/2016,1990,144,A heartwarming story of friendship.,Comedy
+s00678,TV Show,Mystery Valley,Jane Doe,"Actor E, Actor B, Actor D, Actor A",United States,12/22/2016,2021,8 Season(s),An intense drama about life choices.,"Action, Documentary"
+s00679,TV Show,Tech Wars,nan,,United States,6/16/2012,1998,5 Season(s),A mystery that will keep you guessing.,"Thriller, Drama, Romance"
+s00680,TV Show,Medical Heroes,Maria Garcia,Actor C,Canada,9/3/2016,1997,4 Season(s),A comedy that will make you laugh.,"Sci-Fi, Action, Romance"
+s00681,Movie,Neon Nights 690,Christopher Nolan,Actor C,Mexico,6/28/2019,1977,94,A comedy that will make you laugh.,Sci-Fi
+s00682,Movie,Urban Legends 457,David Lee,"Actor E, Actor D, Actor C, Actor A",United States,9/18/2017,2002,86,A sci-fi exploration of future technology.,"Action, Thriller, Sci-Fi"
+s00683,Movie,Final Frontier 1929,David Lee,"Actor D, Actor B",India,8/7/2022,1992,93,A documentary about nature.,Drama
+s00684,TV Show,Family Ties,nan,,Spain,2/5/2013,1962,5 Season(s),A mystery that will keep you guessing.,"Thriller, Comedy, Children & Family"
+s00685,Movie,Echoes of Yesterday 1180,John Smith,,India,11/19/2020,1964,107,An action-packed thriller.,"Documentary, Sci-Fi, Drama"
+s00686,Movie,Lost Kingdom 883,Quentin Tarantino,"Actor C, Actor D, Actor B, Actor E",Australia,6/17/2018,1991,100,A sci-fi exploration of future technology.,Romance
+s00687,Movie,Secret Agent X 1104,Christopher Nolan,"Actor C, Actor B",United States,9/11/2013,1994,149,A thrilling adventure about discovery.,"Comedy, Romance"
+s00688,TV Show,Space Explorers,John Smith,"Actor D, Actor C, Actor A, Actor B",nan,8/14/2010,1982,5 Season(s),A comedy that will make you laugh.,"Comedy, Thriller"
+s00689,Movie,The Last Adventure 1284,Jane Doe,,United Kingdom,,2018,101,A romantic tale set in a distant land.,"Documentary, Romance"
+s00690,Movie,Desert Winds 1639,nan,,United Kingdom,5/21/2015,1983,87,A romantic tale set in a distant land.,Thriller
+s00691,Movie,Time Paradox 785,Jane Doe,"Actor A, Actor D",South Korea,,2003,87,An action-packed thriller.,"Drama, Action, Comedy"
+s00692,Movie,Ocean Mysteries 1383,nan,,Canada,,1990,145,A family movie for all ages.,"Drama, Sci-Fi, Action"
+s00693,Movie,Broken Chains 1245,nan,,India,9/13/2020,2008,104,A sci-fi exploration of future technology.,Comedy
+s00694,Movie,Broken Chains 420,David Lee,"Actor C, Actor A, Actor E, Actor D",Spain,6/25/2020,1991,163,A sci-fi exploration of future technology.,"Drama, Sci-Fi, Horror"
+s00695,Movie,Mountain Echo 1255,nan,"Actor A, Actor C",Canada,2/13/2020,1984,85,A romantic tale set in a distant land.,Romance
+s00696,Movie,Hidden Truth 1087,nan,,United States,12/19/2019,1970,136,A romantic tale set in a distant land.,"Documentary, Action"
+s00697,Movie,Ocean Mysteries 1652,Maria Garcia,"Actor D, Actor B",France,,1961,152,An intense drama about life choices.,"Comedy, Sci-Fi"
+s00698,Movie,Cyber Revolution 519,Steven Spielberg,"Actor A, Actor D, Actor C, Actor B",United States,,1964,65,A romantic tale set in a distant land.,"Sci-Fi, Drama"
+s00699,Movie,Lost Kingdom 455,John Smith,"Actor C, Actor E",Australia,8/11/2019,1980,134,A documentary about nature.,"Documentary, Thriller, Drama"
+s00700,Movie,Ocean Mysteries 598,Maria Garcia,"Actor D, Actor C",nan,3/7/2017,2020,99,A romantic tale set in a distant land.,"Comedy, Action"
+s00701,Movie,Ocean Mysteries 510,nan,"Actor E, Actor A, Actor D",United Kingdom,9/16/2013,1993,67,A sci-fi exploration of future technology.,"Action, Thriller, Comedy"
+s00702,Movie,Moonlight Dreams 1598,John Smith,,India,5/23/2012,2013,163,An intense drama about life choices.,"Documentary, Sci-Fi"
+s00703,Movie,Mountain Echo 1615,nan,"Actor B, Actor D, Actor E, Actor C",United States,4/2/2017,1987,78,A thrilling adventure about discovery.,"Action, Documentary, Sci-Fi"
+s00704,Movie,Future Shock 1495,David Lee,"Actor A, Actor B, Actor D, Actor E",United States,2/19/2015,1962,85,A sci-fi exploration of future technology.,"Action, Documentary, Romance"
+s00705,TV Show,Tech Wars,Steven Spielberg,"Actor A, Actor E, Actor B",Mexico,2/28/2018,1996,8 Season(s),A romantic tale set in a distant land.,"Drama, Action, Sci-Fi"
+s00706,Movie,Secret Agent X 901,nan,"Actor B, Actor D, Actor C, Actor E",United States,8/27/2011,1996,137,A romantic tale set in a distant land.,Romance
+s00707,TV Show,Mystery Valley,Maria Garcia,"Actor C, Actor E, Actor A",India,6/20/2022,1991,6 Season(s),A romantic tale set in a distant land.,"Sci-Fi, Horror, Romance"
+s00708,Movie,Digital Ghost 213,Jane Doe,Actor C,Australia,3/15/2011,1996,150,An intense drama about life choices.,"Drama, Action, Romance"
+s00709,Movie,Hidden Truth 493,David Lee,"Actor B, Actor E, Actor D, Actor C",South Korea,5/26/2022,1997,111,A comedy that will make you laugh.,"Sci-Fi, Action"
+s00710,TV Show,Undercover,Steven Spielberg,"Actor A, Actor C",India,6/19/2013,2009,1 Season(s),An intense drama about life choices.,"Documentary, Action"
+s00711,Movie,Hidden Truth 173,David Lee,Actor E,Canada,2/27/2013,1984,93,A heartwarming story of friendship.,"Action, Drama"
+s00712,Movie,Desert Winds 465,John Smith,Actor A,France,,1979,64,A documentary about nature.,Documentary
+s00713,Movie,Cyber Revolution 497,John Smith,,nan,8/15/2021,1994,115,A mystery that will keep you guessing.,"Children & Family, Romance"
+s00714,Movie,Neon Nights 703,nan,"Actor A, Actor E",Japan,6/14/2015,1985,173,A documentary about nature.,"Comedy, Thriller"
+s00715,TV Show,Undercover,Maria Garcia,"Actor E, Actor C, Actor D",Canada,3/17/2013,2016,3 Season(s),A romantic tale set in a distant land.,"Children & Family, Drama"
+s00716,TV Show,Beyond Borders,Quentin Tarantino,Actor D,United States,4/28/2016,1999,2 Season(s),A mystery that will keep you guessing.,"Comedy, Action"
+s00717,TV Show,Space Explorers,John Smith,,United States,4/1/2020,1964,5 Season(s),A thrilling adventure about discovery.,"Documentary, Action, Comedy"
+s00718,Movie,Desert Winds 546,nan,"Actor A, Actor E, Actor C",Canada,1/17/2010,1972,109,A family movie for all ages.,"Children & Family, Documentary, Action"
+s00719,TV Show,Beyond Borders,Steven Spielberg,"Actor E, Actor B, Actor D, Actor C",Mexico,4/23/2011,1981,2 Season(s),A sci-fi exploration of future technology.,"Horror, Comedy"
+s00720,TV Show,Space Explorers,Quentin Tarantino,"Actor B, Actor E, Actor C, Actor A",South Korea,7/25/2022,1985,4 Season(s),A comedy that will make you laugh.,"Romance, Sci-Fi, Comedy"
+s00721,Movie,Hidden Truth 744,Christopher Nolan,"Actor D, Actor B, Actor C, Actor A",nan,6/15/2013,1968,136,A family movie for all ages.,Romance
+s00722,Movie,Cyber Revolution 1769,Christopher Nolan,,India,3/3/2018,1968,171,An intense drama about life choices.,Thriller
+s00723,TV Show,Undercover,nan,"Actor D, Actor A, Actor E, Actor B",Germany,,1999,6 Season(s),A heartwarming story of friendship.,"Romance, Drama"
+s00724,Movie,Broken Chains 1949,nan,Actor E,Australia,2/7/2018,1997,91,An action-packed thriller.,"Drama, Horror, Sci-Fi"
+s00725,TV Show,Medical Heroes,Jane Doe,"Actor D, Actor E",Japan,11/21/2015,1977,5 Season(s),A documentary about nature.,"Thriller, Documentary, Action"
+s00726,Movie,Future Shock 21,David Lee,"Actor A, Actor D, Actor E, Actor B",United Kingdom,2/1/2020,2012,61,A family movie for all ages.,Documentary
+s00727,TV Show,Tech Wars,Jane Doe,"Actor D, Actor E, Actor C",India,,1970,7 Season(s),A heartwarming story of friendship.,"Documentary, Sci-Fi, Drama"
+s00728,Movie,Digital Ghost 625,nan,Actor D,South Korea,8/2/2022,1973,108,A romantic tale set in a distant land.,"Comedy, Action, Romance"
+s00729,Movie,Echoes of Yesterday 192,nan,Actor B,United States,9/28/2015,1991,74,An intense drama about life choices.,"Drama, Horror"
+s00730,Movie,Starlight Journey 1144,Jane Doe,"Actor B, Actor C, Actor A",Mexico,8/9/2011,1981,82,An intense drama about life choices.,"Thriller, Documentary"
+s00731,TV Show,Mystery Valley,nan,"Actor A, Actor E, Actor C, Actor D",United States,,1990,2 Season(s),A sci-fi exploration of future technology.,"Drama, Documentary"
+s00732,Movie,Echoes of Yesterday 129,nan,,Spain,4/14/2017,1983,86,A mystery that will keep you guessing.,"Action, Comedy"
+s00733,Movie,Moonlight Dreams 572,Jane Doe,"Actor D, Actor E, Actor C",Japan,7/26/2017,1974,123,A mystery that will keep you guessing.,"Horror, Thriller, Sci-Fi"
+s00734,Movie,Wild Expedition 29,Quentin Tarantino,,Spain,7/5/2017,1997,123,A family movie for all ages.,Action
+s00735,TV Show,Mystery Valley,John Smith,"Actor E, Actor B",India,4/14/2022,2003,2 Season(s),A thrilling adventure about discovery.,"Sci-Fi, Thriller, Comedy"
+s00736,Movie,Future Shock 242,nan,Actor E,Mexico,11/24/2011,1989,85,A mystery that will keep you guessing.,Drama
+s00737,TV Show,Tech Wars,nan,"Actor C, Actor A, Actor D",Japan,5/18/2013,1961,3 Season(s),A mystery that will keep you guessing.,"Drama, Comedy, Romance"
+s00738,Movie,Time Paradox 789,nan,"Actor D, Actor C, Actor A, Actor E",United States,,1994,119,A romantic tale set in a distant land.,Comedy
+s00739,Movie,Neon Nights 759,nan,Actor B,Japan,12/21/2017,2002,89,A romantic tale set in a distant land.,"Action, Comedy"
+s00740,Movie,Moonlight Dreams 776,David Lee,Actor E,United States,3/17/2015,1962,154,A heartwarming story of friendship.,"Comedy, Sci-Fi, Action"
+s00741,Movie,Time Paradox 945,nan,"Actor D, Actor B",United States,4/7/2012,2002,161,An intense drama about life choices.,"Action, Drama"
+s00742,TV Show,Legal Minds,nan,Actor E,United Kingdom,,2007,8 Season(s),An intense drama about life choices.,"Action, Documentary"
+s00743,Movie,Starlight Journey 956,Jane Doe,Actor A,South Korea,4/15/2010,1969,168,An intense drama about life choices.,Thriller
+s00744,Movie,Digital Ghost 467,Maria Garcia,Actor D,India,6/25/2017,1997,68,A heartwarming story of friendship.,"Children & Family, Thriller"
+s00745,TV Show,Undercover,nan,,France,9/9/2012,1998,2 Season(s),An action-packed thriller.,Sci-Fi
+s00746,Movie,Silent Forest 449,Christopher Nolan,,United Kingdom,5/15/2012,2011,163,A romantic tale set in a distant land.,"Sci-Fi, Action"
+s00747,Movie,Ocean Mysteries 1032,nan,"Actor C, Actor D, Actor A",United States,11/8/2019,2014,94,A heartwarming story of friendship.,"Thriller, Action"
+s00748,TV Show,Undercover,Steven Spielberg,,nan,3/16/2011,2019,4 Season(s),An intense drama about life choices.,"Comedy, Drama"
+s00749,Movie,Time Paradox 1529,Maria Garcia,"Actor A, Actor E, Actor B, Actor D",Japan,1/7/2021,1985,74,A family movie for all ages.,Romance
+s00750,Movie,Neon Nights 1409,nan,Actor B,Mexico,4/3/2016,1995,95,A romantic tale set in a distant land.,Documentary
+s00751,TV Show,Undercover,James Cameron,Actor D,United States,9/9/2013,1964,7 Season(s),A comedy that will make you laugh.,"Action, Comedy, Documentary"
+s00752,Movie,Final Frontier 408,Quentin Tarantino,"Actor D, Actor B",United States,1/4/2014,1994,167,A mystery that will keep you guessing.,Action
+s00753,Movie,Cyber Revolution 664,John Smith,"Actor D, Actor E, Actor B",South Korea,5/11/2013,2010,106,A romantic tale set in a distant land.,"Action, Thriller"
+s00754,Movie,Starlight Journey 1669,nan,Actor E,France,5/27/2014,1992,97,A romantic tale set in a distant land.,Action
+s00755,TV Show,Beyond Borders,Christopher Nolan,Actor C,United States,2/19/2012,1997,4 Season(s),An intense drama about life choices.,"Thriller, Sci-Fi, Comedy"
+s00756,Movie,Time Paradox 1850,nan,,United States,4/19/2017,1965,144,A documentary about nature.,"Romance, Sci-Fi"
+s00757,Movie,Lost Kingdom 1252,Steven Spielberg,Actor E,Australia,4/9/2014,2022,95,An action-packed thriller.,Drama
+s00758,TV Show,Family Ties,nan,"Actor B, Actor E, Actor A, Actor C",India,8/21/2016,1998,5 Season(s),A romantic tale set in a distant land.,"Comedy, Action"
+s00759,TV Show,Beyond Borders,nan,"Actor C, Actor B, Actor E, Actor D",France,6/15/2010,1994,1 Season(s),A heartwarming story of friendship.,"Drama, Romance"
+s00760,Movie,Urban Legends 1235,John Smith,"Actor C, Actor D, Actor E, Actor B",United Kingdom,7/6/2011,2011,90,A thrilling adventure about discovery.,"Comedy, Sci-Fi, Documentary"
+s00761,Movie,Secret Agent X 499,Maria Garcia,"Actor E, Actor A",United Kingdom,1/18/2013,1991,93,An intense drama about life choices.,Thriller
+s00762,Movie,Final Frontier 1515,John Smith,Actor C,nan,3/5/2019,1972,89,An intense drama about life choices.,"Drama, Action, Documentary"
+s00763,TV Show,Tech Wars,David Lee,Actor D,United States,8/22/2022,2001,2 Season(s),A documentary about nature.,"Sci-Fi, Comedy"
+s00764,Movie,Ocean Mysteries 773,Christopher Nolan,"Actor E, Actor A",India,9/17/2011,1976,176,A sci-fi exploration of future technology.,"Thriller, Comedy"
+s00765,Movie,Time Paradox 1344,Christopher Nolan,,Australia,1/12/2022,1991,135,A thrilling adventure about discovery.,Comedy
+s00766,TV Show,Tech Wars,Christopher Nolan,,United States,5/8/2014,1994,5 Season(s),A comedy that will make you laugh.,"Drama, Children & Family"
+s00767,TV Show,Medical Heroes,John Smith,"Actor C, Actor D",India,3/6/2020,1978,2 Season(s),A mystery that will keep you guessing.,Drama
+s00768,Movie,Urban Legends 992,James Cameron,,Japan,3/18/2021,1994,86,A sci-fi exploration of future technology.,"Drama, Action"
+s00769,TV Show,Space Explorers,David Lee,Actor B,India,11/7/2018,2005,5 Season(s),A family movie for all ages.,"Action, Comedy"
+s00770,Movie,Starlight Journey 1247,nan,,India,12/11/2022,1997,167,A romantic tale set in a distant land.,Documentary
+s00771,TV Show,Space Explorers,Jane Doe,"Actor B, Actor E, Actor D",United Kingdom,9/9/2015,2012,2 Season(s),A family movie for all ages.,"Comedy, Thriller, Drama"
+s00772,Movie,Time Paradox 921,Maria Garcia,,Canada,11/13/2014,1994,93,A comedy that will make you laugh.,"Thriller, Comedy"
+s00773,Movie,Echoes of Yesterday 962,John Smith,"Actor D, Actor A, Actor C, Actor E",Japan,2/21/2011,1978,163,A heartwarming story of friendship.,"Sci-Fi, Drama"
+s00774,TV Show,Legal Minds,nan,"Actor C, Actor A, Actor B",France,12/10/2014,1970,1 Season(s),An action-packed thriller.,Drama
+s00775,Movie,Hidden Truth 963,nan,"Actor A, Actor D, Actor C",United States,2/23/2018,1995,67,A heartwarming story of friendship.,Comedy
+s00776,Movie,Starlight Journey 1828,nan,,Japan,,1994,81,A heartwarming story of friendship.,Sci-Fi
+s00777,TV Show,Medical Heroes,nan,,nan,7/16/2013,1991,6 Season(s),A heartwarming story of friendship.,"Documentary, Action"
+s00778,TV Show,Beyond Borders,Christopher Nolan,"Actor B, Actor D, Actor A, Actor E",India,,1967,1 Season(s),A thrilling adventure about discovery.,"Children & Family, Sci-Fi"
+s00779,Movie,Lost Kingdom 1641,nan,,Spain,,1974,99,An intense drama about life choices.,Documentary
+s00780,Movie,Echoes of Yesterday 217,nan,"Actor E, Actor D, Actor A, Actor C",Canada,12/27/2021,1995,89,A romantic tale set in a distant land.,"Comedy, Thriller"
+s00781,Movie,Hidden Truth 1802,Quentin Tarantino,,South Korea,10/5/2014,2010,104,A mystery that will keep you guessing.,"Comedy, Action, Thriller"
+s00782,Movie,Desert Winds 652,nan,,Mexico,10/27/2021,1960,101,A thrilling adventure about discovery.,"Sci-Fi, Drama"
+s00783,Movie,Time Paradox 770,Steven Spielberg,"Actor A, Actor C, Actor D",United States,5/1/2019,2013,93,A sci-fi exploration of future technology.,"Thriller, Documentary"
+s00784,Movie,Digital Ghost 1717,David Lee,"Actor E, Actor C, Actor B, Actor A",India,10/15/2019,1998,91,A sci-fi exploration of future technology.,Comedy
+s00785,TV Show,Space Explorers,Quentin Tarantino,Actor E,United Kingdom,4/25/2019,1981,8 Season(s),A thrilling adventure about discovery.,Horror
+s00786,Movie,Wild Expedition 1312,John Smith,"Actor E, Actor C, Actor B, Actor D",India,8/5/2018,2004,144,A comedy that will make you laugh.,"Romance, Horror"
+s00787,Movie,Moonlight Dreams 523,nan,"Actor E, Actor D",United States,6/23/2013,1967,74,A family movie for all ages.,Sci-Fi
+s00788,Movie,Future Shock 783,Maria Garcia,,Australia,11/13/2015,1973,112,A thrilling adventure about discovery.,Children & Family
+s00789,TV Show,Mystery Valley,John Smith,"Actor E, Actor B, Actor C, Actor A",United States,2/21/2015,2011,4 Season(s),A thrilling adventure about discovery.,Thriller
+s00790,Movie,Time Paradox 1426,Jane Doe,"Actor A, Actor D, Actor C",India,1/28/2013,1965,87,A mystery that will keep you guessing.,"Action, Comedy, Documentary"
+s00791,Movie,Echoes of Yesterday 1689,nan,"Actor A, Actor D, Actor C, Actor B",France,7/15/2015,1992,86,A mystery that will keep you guessing.,Thriller
+s00792,Movie,Time Paradox 1851,Steven Spielberg,"Actor D, Actor C, Actor A, Actor E",United States,,1983,178,An intense drama about life choices.,"Drama, Thriller, Horror"
+s00793,Movie,Lost Kingdom 124,John Smith,"Actor B, Actor C, Actor E",Mexico,,2011,163,A mystery that will keep you guessing.,"Drama, Romance"
+s00794,Movie,Hidden Truth 790,nan,"Actor C, Actor E, Actor D, Actor A",Australia,10/12/2022,1996,99,An intense drama about life choices.,Documentary
+s00795,TV Show,Beyond Borders,nan,,India,1/21/2018,1983,8 Season(s),A heartwarming story of friendship.,Documentary
+s00796,TV Show,Medical Heroes,John Smith,,India,8/8/2014,1993,3 Season(s),A family movie for all ages.,Children & Family
+s00797,Movie,Broken Chains 1749,nan,,United States,,2016,87,A comedy that will make you laugh.,"Documentary, Thriller, Comedy"
+s00798,Movie,Silent Forest 1312,nan,"Actor A, Actor D, Actor C, Actor E",Spain,7/13/2010,1967,80,A family movie for all ages.,"Action, Drama, Thriller"
+s00799,TV Show,Family Ties,nan,"Actor B, Actor A, Actor D, Actor E",United States,1/6/2010,1997,7 Season(s),An intense drama about life choices.,"Drama, Action"
+s00800,TV Show,Medical Heroes,Maria Garcia,"Actor A, Actor D",France,10/26/2016,2021,8 Season(s),A mystery that will keep you guessing.,"Comedy, Action"
+s00801,Movie,Starlight Journey 888,Quentin Tarantino,,Australia,4/21/2018,1990,157,A thrilling adventure about discovery.,Thriller
+s00802,Movie,Cyber Revolution 122,James Cameron,,United States,,1968,63,A romantic tale set in a distant land.,Horror
+s00803,Movie,Secret Agent X 497,James Cameron,"Actor E, Actor A, Actor B, Actor D",South Korea,3/15/2011,1969,93,A heartwarming story of friendship.,"Children & Family, Action"
+s00804,Movie,Silent Forest 1257,Maria Garcia,"Actor B, Actor E, Actor C",United States,2/14/2018,2017,83,A documentary about nature.,"Thriller, Drama"
+s00805,TV Show,Legal Minds,Christopher Nolan,,Mexico,7/6/2013,1990,1 Season(s),A sci-fi exploration of future technology.,"Thriller, Documentary, Comedy"
+s00806,TV Show,Tech Wars,David Lee,Actor A,United States,9/26/2018,1984,5 Season(s),An intense drama about life choices.,Comedy
+s00807,TV Show,Undercover,Jane Doe,"Actor B, Actor E, Actor A",Japan,2/16/2010,1990,5 Season(s),A family movie for all ages.,"Comedy, Sci-Fi"
+s00808,Movie,Digital Ghost 1022,James Cameron,Actor C,United States,8/14/2019,1968,88,A mystery that will keep you guessing.,Horror
+s00809,Movie,Time Paradox 302,nan,"Actor D, Actor C, Actor A",Australia,1/23/2013,2008,125,A heartwarming story of friendship.,"Action, Drama, Comedy"
+s00810,TV Show,Space Explorers,John Smith,"Actor B, Actor A, Actor D",India,9/28/2017,1966,3 Season(s),A sci-fi exploration of future technology.,Drama
+s00811,TV Show,Medical Heroes,Christopher Nolan,Actor D,United States,6/22/2014,1996,6 Season(s),A documentary about nature.,"Documentary, Drama"
+s00812,Movie,Secret Agent X 663,nan,"Actor B, Actor E",Canada,6/4/2015,1967,107,A thrilling adventure about discovery.,"Sci-Fi, Comedy, Thriller"
+s00813,TV Show,Beyond Borders,Christopher Nolan,"Actor C, Actor A, Actor D",India,3/7/2017,1974,3 Season(s),A thrilling adventure about discovery.,"Documentary, Thriller"
+s00814,TV Show,Space Explorers,nan,"Actor C, Actor A",France,1/14/2010,2006,2 Season(s),An intense drama about life choices.,"Documentary, Horror"
+s00815,Movie,Neon Nights 256,nan,"Actor D, Actor B, Actor A",South Korea,12/14/2018,2009,126,An intense drama about life choices.,"Drama, Comedy, Children & Family"
+s00816,Movie,Neon Nights 1369,Jane Doe,"Actor A, Actor D",India,5/28/2021,2009,103,A mystery that will keep you guessing.,"Drama, Action"
+s00817,Movie,Digital Ghost 1490,nan,"Actor D, Actor B, Actor C",United States,9/15/2015,1962,87,A romantic tale set in a distant land.,Horror
+s00818,Movie,Moonlight Dreams 541,Maria Garcia,,United States,,2005,87,A mystery that will keep you guessing.,"Comedy, Drama"
+s00819,Movie,Urban Legends 436,John Smith,,Canada,10/19/2013,1972,169,A comedy that will make you laugh.,Romance
+s00820,TV Show,Family Ties,Christopher Nolan,,India,3/10/2010,2013,5 Season(s),A heartwarming story of friendship.,"Comedy, Drama"
+s00821,Movie,Hidden Truth 1631,James Cameron,"Actor E, Actor C, Actor D",United Kingdom,,1984,100,A heartwarming story of friendship.,"Action, Comedy"
+s00822,Movie,Urban Legends 1431,nan,"Actor E, Actor C, Actor D, Actor A",United States,5/21/2014,2009,68,A family movie for all ages.,"Romance, Sci-Fi"
+s00823,Movie,Silent Forest 461,Jane Doe,,India,5/7/2016,2015,85,A thrilling adventure about discovery.,Comedy
+s00824,Movie,Neon Nights 421,Maria Garcia,"Actor E, Actor C, Actor B, Actor D",nan,5/8/2011,2015,141,An action-packed thriller.,"Romance, Action, Sci-Fi"
+s00825,TV Show,Undercover,Maria Garcia,"Actor D, Actor B, Actor E, Actor A",United States,10/19/2011,1985,8 Season(s),A mystery that will keep you guessing.,Drama
+s00826,Movie,The Last Adventure 696,Maria Garcia,"Actor A, Actor B, Actor C, Actor E",Canada,8/24/2017,1992,126,A family movie for all ages.,"Comedy, Children & Family, Documentary"
+s00827,Movie,Cyber Revolution 703,Christopher Nolan,,Germany,1/6/2017,2014,91,An intense drama about life choices.,Drama
+s00828,TV Show,Medical Heroes,Jane Doe,"Actor A, Actor B, Actor D, Actor E",Spain,3/27/2017,1967,1 Season(s),A heartwarming story of friendship.,"Sci-Fi, Romance"
+s00829,Movie,Final Frontier 23,nan,"Actor C, Actor D",United Kingdom,2/23/2020,1980,88,An intense drama about life choices.,"Horror, Sci-Fi"
+s00830,Movie,Secret Agent X 108,Quentin Tarantino,"Actor C, Actor B, Actor E",Japan,2/8/2020,2010,169,A mystery that will keep you guessing.,"Action, Sci-Fi"
+s00831,Movie,Urban Legends 1305,Quentin Tarantino,,South Korea,4/13/2016,1996,93,A sci-fi exploration of future technology.,"Action, Comedy, Romance"
+s00832,Movie,Ocean Mysteries 1135,Christopher Nolan,"Actor E, Actor C, Actor B",United States,4/24/2013,1992,119,An intense drama about life choices.,"Romance, Drama, Thriller"
+s00833,Movie,Time Paradox 362,John Smith,"Actor B, Actor E, Actor D",India,,1982,103,An action-packed thriller.,Comedy
+s00834,Movie,Wild Expedition 1608,nan,,United States,11/6/2013,2011,88,A heartwarming story of friendship.,Action
+s00835,Movie,The Last Adventure 1900,Christopher Nolan,,United Kingdom,3/4/2015,1994,104,A mystery that will keep you guessing.,"Documentary, Drama"
+s00836,TV Show,Undercover,Steven Spielberg,"Actor D, Actor E, Actor A",India,9/6/2014,2017,4 Season(s),A family movie for all ages.,"Action, Comedy, Children & Family"
+s00837,Movie,Cyber Revolution 449,Jane Doe,"Actor B, Actor E",Spain,11/7/2020,1981,153,A romantic tale set in a distant land.,Action
+s00838,Movie,Desert Winds 1128,nan,"Actor A, Actor C",United States,4/4/2014,1971,86,A romantic tale set in a distant land.,"Sci-Fi, Action"
+s00839,Movie,Cyber Revolution 1248,David Lee,"Actor E, Actor C, Actor A, Actor B",India,11/2/2018,1967,78,A mystery that will keep you guessing.,"Action, Children & Family, Horror"
+s00840,Movie,Future Shock 1890,John Smith,"Actor C, Actor D",Canada,8/27/2017,1990,87,A romantic tale set in a distant land.,"Comedy, Action, Thriller"
+s00841,Movie,Neon Nights 473,nan,,India,4/7/2020,2004,87,A heartwarming story of friendship.,Action
+s00842,Movie,Future Shock 1429,David Lee,,Spain,6/27/2019,1967,107,A sci-fi exploration of future technology.,Comedy
+s00843,TV Show,Space Explorers,nan,"Actor E, Actor C, Actor A",United Kingdom,8/8/2011,2004,2 Season(s),An intense drama about life choices.,"Documentary, Sci-Fi, Drama"
+s00844,Movie,Lost Kingdom 231,nan,,Mexico,11/25/2016,1994,98,An action-packed thriller.,"Drama, Romance"
+s00845,Movie,Moonlight Dreams 937,James Cameron,"Actor C, Actor D",India,9/22/2018,1996,159,A documentary about nature.,"Romance, Sci-Fi, Drama"
+s00846,Movie,Wild Expedition 1037,James Cameron,Actor C,Canada,3/13/2016,1968,87,A family movie for all ages.,Action
+s00847,TV Show,Mystery Valley,Steven Spielberg,"Actor C, Actor B, Actor E, Actor D",Australia,10/2/2019,1991,4 Season(s),A heartwarming story of friendship.,Sci-Fi
+s00848,Movie,Broken Chains 932,Jane Doe,,United States,6/9/2015,2008,84,A thrilling adventure about discovery.,"Drama, Sci-Fi"
+s00849,Movie,Future Shock 602,nan,"Actor A, Actor B, Actor E, Actor D",United States,,1989,151,A comedy that will make you laugh.,"Romance, Action"
+s00850,Movie,Silent Forest 209,John Smith,"Actor A, Actor D",Spain,7/8/2017,2010,176,A comedy that will make you laugh.,"Children & Family, Comedy"
+s00851,TV Show,Medical Heroes,Quentin Tarantino,,India,8/15/2016,1968,7 Season(s),A family movie for all ages.,"Thriller, Comedy"
+s00852,Movie,Lost Kingdom 1657,nan,,South Korea,3/2/2016,2005,85,A heartwarming story of friendship.,"Action, Drama, Thriller"
+s00853,TV Show,Tech Wars,Maria Garcia,"Actor C, Actor E",nan,9/19/2017,2006,2 Season(s),A mystery that will keep you guessing.,Thriller
+s00854,Movie,Broken Chains 587,Steven Spielberg,"Actor C, Actor A, Actor B",United Kingdom,11/26/2015,1989,80,An intense drama about life choices.,"Romance, Action, Sci-Fi"
+s00855,Movie,Wild Expedition 1779,Jane Doe,,India,3/27/2021,2021,109,A mystery that will keep you guessing.,"Comedy, Action"
+s00856,Movie,Mountain Echo 1848,John Smith,"Actor E, Actor D, Actor B",India,3/1/2018,1995,90,A mystery that will keep you guessing.,"Romance, Drama"
+s00857,Movie,Final Frontier 1125,nan,,United Kingdom,,1997,125,A thrilling adventure about discovery.,Comedy
+s00858,Movie,Desert Winds 1647,Christopher Nolan,"Actor D, Actor E, Actor A",Germany,,2022,116,A romantic tale set in a distant land.,"Sci-Fi, Children & Family"
+s00859,Movie,Desert Winds 1044,James Cameron,,Germany,12/10/2019,2019,88,A comedy that will make you laugh.,"Documentary, Sci-Fi"
+s00860,TV Show,Tech Wars,Maria Garcia,Actor C,India,,1990,5 Season(s),A documentary about nature.,"Comedy, Thriller"
+s00861,Movie,Cyber Revolution 1178,James Cameron,Actor B,United States,5/3/2013,2000,85,A documentary about nature.,"Action, Comedy"
+s00862,Movie,Ocean Mysteries 1766,David Lee,"Actor E, Actor B, Actor D",United Kingdom,2/13/2019,1984,126,An intense drama about life choices.,Romance
+s00863,Movie,Time Paradox 871,John Smith,,United States,11/17/2016,1994,160,A comedy that will make you laugh.,Action
+s00864,Movie,Future Shock 38,Jane Doe,"Actor B, Actor D, Actor A, Actor E",Australia,9/9/2015,1988,141,A thrilling adventure about discovery.,"Romance, Thriller"
+s00865,Movie,Lost Kingdom 1796,nan,,United States,9/24/2021,1993,81,A family movie for all ages.,Comedy
+s00866,Movie,Digital Ghost 1044,David Lee,"Actor C, Actor A, Actor B",Australia,,1997,114,A heartwarming story of friendship.,"Romance, Children & Family, Thriller"
+s00867,Movie,Starlight Journey 1143,Steven Spielberg,"Actor D, Actor E, Actor B",France,9/26/2016,1961,87,A mystery that will keep you guessing.,Thriller
+s00868,TV Show,Legal Minds,Maria Garcia,Actor E,Spain,9/15/2022,1969,4 Season(s),A mystery that will keep you guessing.,"Romance, Documentary, Horror"
+s00869,TV Show,Beyond Borders,nan,Actor B,India,5/24/2010,1975,4 Season(s),An action-packed thriller.,"Drama, Thriller, Comedy"
+s00870,Movie,Lost Kingdom 1539,nan,,France,12/13/2015,1984,143,A family movie for all ages.,Comedy
+s00871,Movie,Ocean Mysteries 336,Steven Spielberg,"Actor D, Actor A",Japan,6/27/2017,1997,137,An action-packed thriller.,"Romance, Action, Children & Family"
+s00872,Movie,Broken Chains 900,nan,"Actor B, Actor D",Germany,5/18/2020,1996,85,An action-packed thriller.,Comedy
+s00873,Movie,Moonlight Dreams 1694,John Smith,"Actor D, Actor C, Actor A, Actor E",India,11/21/2021,1999,178,A romantic tale set in a distant land.,"Action, Romance, Drama"
+s00874,Movie,Hidden Truth 1939,Steven Spielberg,"Actor B, Actor C, Actor D, Actor E",India,5/28/2015,1962,141,A documentary about nature.,"Children & Family, Horror"
+s00875,Movie,Final Frontier 1841,Steven Spielberg,"Actor D, Actor A",Japan,4/16/2011,1998,88,An action-packed thriller.,Romance
+s00876,TV Show,Legal Minds,Christopher Nolan,,United States,,1989,6 Season(s),A mystery that will keep you guessing.,Action
+s00877,Movie,Lost Kingdom 211,nan,"Actor D, Actor B, Actor E",India,7/5/2018,2007,117,A comedy that will make you laugh.,"Action, Children & Family"
+s00878,Movie,Digital Ghost 1100,Steven Spielberg,Actor C,nan,11/16/2021,2013,178,A comedy that will make you laugh.,"Sci-Fi, Drama"
+s00879,Movie,Mountain Echo 1141,Steven Spielberg,,United States,9/1/2013,1982,134,A romantic tale set in a distant land.,"Documentary, Children & Family"
+s00880,Movie,Desert Winds 1728,nan,"Actor D, Actor B",United Kingdom,7/9/2014,1984,119,A comedy that will make you laugh.,Action
+s00881,Movie,Final Frontier 432,Jane Doe,"Actor D, Actor C, Actor E, Actor B",United Kingdom,7/14/2022,2012,99,A mystery that will keep you guessing.,"Comedy, Documentary"
+s00882,Movie,Digital Ghost 740,Christopher Nolan,"Actor B, Actor E",Japan,11/27/2016,1994,161,A documentary about nature.,"Sci-Fi, Children & Family"
+s00883,Movie,Starlight Journey 1207,Christopher Nolan,"Actor A, Actor C",United States,7/27/2021,1993,83,A documentary about nature.,"Romance, Action"
+s00884,TV Show,Mystery Valley,Steven Spielberg,,Japan,12/18/2010,1960,5 Season(s),A documentary about nature.,Documentary
+s00885,Movie,Hidden Truth 831,Quentin Tarantino,Actor B,United States,10/6/2012,1991,86,A heartwarming story of friendship.,"Action, Documentary"
+s00886,Movie,Broken Chains 1137,David Lee,"Actor B, Actor C, Actor A",United States,9/20/2018,2008,137,A family movie for all ages.,Action
+s00887,Movie,Urban Legends 971,Steven Spielberg,,Spain,6/16/2022,1995,85,A heartwarming story of friendship.,"Action, Drama"
+s00888,Movie,Digital Ghost 161,Steven Spielberg,,United Kingdom,11/6/2019,1998,100,A heartwarming story of friendship.,Action
+s00889,Movie,Starlight Journey 198,nan,"Actor B, Actor A",nan,5/24/2013,2011,91,A heartwarming story of friendship.,"Drama, Action"
+s00890,TV Show,Beyond Borders,David Lee,"Actor C, Actor B",United States,12/14/2017,1995,6 Season(s),A comedy that will make you laugh.,"Documentary, Action, Romance"
+s00891,TV Show,Beyond Borders,John Smith,"Actor B, Actor C",India,4/1/2015,1992,4 Season(s),A sci-fi exploration of future technology.,"Thriller, Comedy, Documentary"
+s00892,TV Show,Space Explorers,Maria Garcia,"Actor E, Actor A, Actor B, Actor D",United States,9/2/2017,1968,3 Season(s),A comedy that will make you laugh.,"Thriller, Drama"
+s00893,Movie,Urban Legends 2011,Jane Doe,"Actor D, Actor C, Actor E",United Kingdom,5/10/2022,1982,89,A sci-fi exploration of future technology.,Action
+s00894,Movie,Urban Legends 1734,John Smith,"Actor A, Actor E",nan,6/3/2014,1961,85,A comedy that will make you laugh.,"Action, Thriller"
+s00895,Movie,Urban Legends 78,Maria Garcia,"Actor B, Actor A, Actor C",South Korea,6/4/2016,1995,177,A mystery that will keep you guessing.,"Romance, Documentary, Comedy"
+s00896,Movie,Neon Nights 1895,Jane Doe,Actor C,United States,10/25/2012,1987,158,A family movie for all ages.,Thriller
+s00897,TV Show,Mystery Valley,nan,,Canada,11/22/2022,1963,4 Season(s),A thrilling adventure about discovery.,"Romance, Comedy"
+s00898,Movie,Wild Expedition 837,Christopher Nolan,"Actor B, Actor A, Actor E",Japan,,1965,69,A thrilling adventure about discovery.,"Horror, Action, Comedy"
+s00899,Movie,Broken Chains 1597,nan,"Actor C, Actor A, Actor E, Actor B",United States,10/18/2017,2013,97,A heartwarming story of friendship.,Horror
+s00900,Movie,Future Shock 50,Steven Spielberg,"Actor C, Actor D",United States,2/15/2010,2008,67,A thrilling adventure about discovery.,"Romance, Drama"
+s00901,Movie,Cyber Revolution 973,nan,"Actor D, Actor A, Actor E, Actor C",Mexico,6/15/2020,2017,140,A family movie for all ages.,Drama
+s00902,Movie,Neon Nights 1649,David Lee,"Actor D, Actor B",nan,3/27/2016,1991,85,A family movie for all ages.,"Comedy, Horror"
+s00903,Movie,Digital Ghost 710,nan,"Actor E, Actor C, Actor D",nan,11/28/2014,1962,89,An intense drama about life choices.,Sci-Fi
+s00904,Movie,Starlight Journey 1901,Christopher Nolan,,Germany,12/4/2017,1974,125,A romantic tale set in a distant land.,"Comedy, Romance"
+s00905,TV Show,Family Ties,Maria Garcia,Actor E,France,9/3/2011,1977,3 Season(s),A family movie for all ages.,Romance
+s00906,TV Show,Undercover,Maria Garcia,"Actor C, Actor B, Actor A",United Kingdom,10/8/2016,1971,1 Season(s),A romantic tale set in a distant land.,"Documentary, Action, Drama"
+s00907,Movie,Final Frontier 1450,nan,,United States,7/26/2013,1983,115,A thrilling adventure about discovery.,Romance
+s00908,Movie,Cyber Revolution 1326,Maria Garcia,Actor D,United States,6/22/2015,1989,118,A romantic tale set in a distant land.,"Comedy, Drama, Romance"
+s00909,Movie,Final Frontier 581,Maria Garcia,"Actor A, Actor B, Actor D, Actor C",France,8/14/2011,2018,71,A sci-fi exploration of future technology.,"Action, Romance"
+s00910,Movie,Ocean Mysteries 2004,John Smith,"Actor A, Actor E",Germany,5/2/2014,2003,71,A mystery that will keep you guessing.,"Action, Thriller"
+s00911,Movie,Starlight Journey 917,Jane Doe,"Actor D, Actor E",Australia,9/9/2021,1979,163,A romantic tale set in a distant land.,"Thriller, Action"
+s00912,Movie,Future Shock 704,John Smith,"Actor D, Actor C",Mexico,4/15/2018,1991,119,A mystery that will keep you guessing.,"Action, Drama, Children & Family"
+s00913,Movie,Ocean Mysteries 356,Steven Spielberg,"Actor D, Actor E, Actor B, Actor A",South Korea,1/8/2011,1994,91,A heartwarming story of friendship.,"Sci-Fi, Children & Family"
+s00914,Movie,Mountain Echo 1626,nan,Actor B,nan,,1995,165,A thrilling adventure about discovery.,Children & Family
+s00915,Movie,Desert Winds 638,nan,"Actor B, Actor C, Actor A, Actor D",United States,12/19/2018,1981,145,A mystery that will keep you guessing.,Comedy
+s00916,Movie,Secret Agent X 1319,nan,"Actor E, Actor A",Germany,5/27/2020,2021,66,An action-packed thriller.,"Action, Sci-Fi, Documentary"
+s00917,TV Show,Tech Wars,Quentin Tarantino,,Canada,10/15/2020,1974,8 Season(s),A heartwarming story of friendship.,Comedy
+s00918,TV Show,Family Ties,nan,,United States,5/15/2021,1996,6 Season(s),A mystery that will keep you guessing.,Thriller
+s00919,Movie,The Last Adventure 792,nan,"Actor C, Actor B",nan,10/24/2013,1994,83,An intense drama about life choices.,Romance
+s00920,TV Show,Mystery Valley,David Lee,"Actor E, Actor A, Actor C, Actor B",South Korea,,1977,8 Season(s),A romantic tale set in a distant land.,"Action, Sci-Fi"
+s00921,Movie,Desert Winds 1862,David Lee,,United States,2/16/2014,1990,106,An intense drama about life choices.,Action
+s00922,TV Show,Mystery Valley,Jane Doe,,United States,7/16/2018,1981,8 Season(s),A family movie for all ages.,"Drama, Romance"
+s00923,TV Show,Medical Heroes,nan,"Actor B, Actor E, Actor C",France,,1991,6 Season(s),A sci-fi exploration of future technology.,"Action, Thriller, Drama"
+s00924,Movie,Lost Kingdom 1852,Maria Garcia,,Japan,11/24/2018,1992,113,A heartwarming story of friendship.,Drama
+s00925,Movie,Silent Forest 188,Christopher Nolan,,Mexico,7/11/2013,1991,92,A documentary about nature.,Drama
+s00926,Movie,Broken Chains 1688,Jane Doe,,United States,3/20/2021,1988,122,A documentary about nature.,"Thriller, Sci-Fi"
+s00927,Movie,Desert Winds 725,nan,Actor E,United States,7/6/2017,2011,166,A mystery that will keep you guessing.,"Children & Family, Drama"
+s00928,Movie,Silent Forest 618,nan,,United States,7/8/2020,1995,64,A romantic tale set in a distant land.,"Comedy, Drama, Documentary"
+s00929,Movie,Secret Agent X 163,nan,"Actor D, Actor A",United States,6/2/2010,1966,168,A thrilling adventure about discovery.,Drama
+s00930,Movie,Lost Kingdom 632,David Lee,"Actor B, Actor C",United States,2/24/2010,1960,107,A documentary about nature.,Action
+s00931,TV Show,Tech Wars,Quentin Tarantino,,Mexico,12/10/2015,1996,7 Season(s),A thrilling adventure about discovery.,"Sci-Fi, Action"
+s00932,TV Show,Space Explorers,Steven Spielberg,,United Kingdom,7/21/2020,1978,3 Season(s),A documentary about nature.,"Comedy, Action, Drama"
+s00933,Movie,Wild Expedition 1206,Steven Spielberg,"Actor C, Actor A, Actor D",India,12/23/2021,1998,119,A heartwarming story of friendship.,Action
+s00934,Movie,Future Shock 1753,Christopher Nolan,"Actor D, Actor B, Actor C",United States,,1982,61,A documentary about nature.,"Action, Drama, Comedy"
+s00935,Movie,Digital Ghost 582,Jane Doe,"Actor D, Actor E, Actor A, Actor C",United States,1/17/2012,1992,78,A family movie for all ages.,Documentary
+s00936,Movie,Silent Forest 841,Steven Spielberg,"Actor D, Actor E, Actor C, Actor B",Australia,3/7/2014,2009,137,A comedy that will make you laugh.,Thriller
+s00937,TV Show,Undercover,John Smith,"Actor B, Actor C, Actor D, Actor E",Japan,1/16/2012,1991,8 Season(s),A mystery that will keep you guessing.,Action
+s00938,Movie,Desert Winds 1720,nan,,Germany,11/9/2016,1994,155,A sci-fi exploration of future technology.,"Thriller, Action"
+s00939,Movie,Neon Nights 596,John Smith,,India,9/26/2011,1998,108,A documentary about nature.,"Documentary, Thriller"
+s00940,Movie,Hidden Truth 250,nan,"Actor D, Actor B",United Kingdom,,1970,132,A romantic tale set in a distant land.,"Romance, Action, Drama"
+s00941,Movie,Neon Nights 1465,David Lee,"Actor D, Actor C, Actor E",India,,2013,179,A sci-fi exploration of future technology.,"Drama, Horror, Action"
+s00942,Movie,Desert Winds 690,Quentin Tarantino,,United Kingdom,10/10/2013,1993,88,A thrilling adventure about discovery.,Action
+s00943,TV Show,Mystery Valley,Jane Doe,"Actor C, Actor A, Actor E, Actor B",Australia,12/27/2011,2011,2 Season(s),An intense drama about life choices.,"Children & Family, Comedy"
+s00944,Movie,Secret Agent X 1094,Christopher Nolan,"Actor C, Actor A",United States,4/7/2010,1997,91,A family movie for all ages.,"Children & Family, Thriller, Documentary"
+s00945,Movie,Urban Legends 2002,Jane Doe,"Actor A, Actor C",France,2/28/2014,2000,88,An action-packed thriller.,Action
+s00946,Movie,Neon Nights 1172,David Lee,"Actor C, Actor B, Actor E, Actor A",United States,9/25/2011,1985,101,An action-packed thriller.,"Sci-Fi, Thriller, Action"
+s00947,TV Show,Space Explorers,Christopher Nolan,Actor A,France,11/20/2017,2000,2 Season(s),A sci-fi exploration of future technology.,"Action, Sci-Fi"
+s00948,TV Show,Legal Minds,Quentin Tarantino,"Actor B, Actor D, Actor A",Mexico,,1979,3 Season(s),An intense drama about life choices.,"Romance, Documentary, Action"
+s00949,Movie,Wild Expedition 199,Jane Doe,Actor D,Japan,8/8/2017,1997,85,A romantic tale set in a distant land.,Romance
+s00950,Movie,Future Shock 1690,nan,"Actor D, Actor E",Canada,12/7/2021,1993,89,A sci-fi exploration of future technology.,"Romance, Documentary, Action"
+s00951,Movie,Silent Forest 1912,nan,"Actor D, Actor C, Actor B, Actor A",nan,9/22/2014,2000,73,A thrilling adventure about discovery.,"Sci-Fi, Action, Drama"
+s00952,Movie,Lost Kingdom 1337,nan,,Japan,10/20/2019,2022,68,A heartwarming story of friendship.,Comedy
+s00953,TV Show,Undercover,Steven Spielberg,"Actor D, Actor A, Actor B",United States,1/26/2010,1980,3 Season(s),A sci-fi exploration of future technology.,Thriller
+s00954,Movie,Hidden Truth 1605,nan,"Actor C, Actor A, Actor E, Actor D",United States,5/21/2012,1994,173,An action-packed thriller.,"Horror, Action, Documentary"
+s00955,Movie,Cyber Revolution 1623,nan,"Actor E, Actor D",Spain,5/21/2017,2008,105,A comedy that will make you laugh.,"Horror, Comedy"
+s00956,Movie,Ocean Mysteries 984,David Lee,"Actor C, Actor E",Spain,1/19/2022,1998,93,An action-packed thriller.,Romance
+s00957,Movie,Starlight Journey 1939,nan,Actor D,United Kingdom,1/5/2010,2021,61,An intense drama about life choices.,"Documentary, Sci-Fi"
+s00958,Movie,Final Frontier 1881,Jane Doe,,United Kingdom,2/27/2019,1965,93,A thrilling adventure about discovery.,"Action, Comedy, Drama"
+s00959,TV Show,Undercover,nan,,nan,,1975,3 Season(s),A romantic tale set in a distant land.,Action
+s00960,Movie,Silent Forest 445,nan,,United States,6/15/2012,1991,72,A family movie for all ages.,Drama
+s00961,Movie,Echoes of Yesterday 161,Christopher Nolan,"Actor C, Actor B",India,12/10/2013,2019,82,A mystery that will keep you guessing.,"Comedy, Action"
+s00962,Movie,Hidden Truth 629,John Smith,"Actor B, Actor D, Actor C",United States,3/9/2011,1961,147,A comedy that will make you laugh.,"Horror, Comedy, Drama"
+s00963,Movie,Desert Winds 895,nan,"Actor C, Actor D, Actor E",Australia,6/10/2018,2008,170,A family movie for all ages.,Drama
+s00964,Movie,Future Shock 1017,Steven Spielberg,"Actor A, Actor C",United States,4/27/2018,1990,138,A sci-fi exploration of future technology.,"Sci-Fi, Romance"
+s00965,Movie,Secret Agent X 598,Maria Garcia,Actor B,France,9/5/2015,1979,87,A comedy that will make you laugh.,"Comedy, Romance"
+s00966,TV Show,Legal Minds,nan,"Actor C, Actor B, Actor E",United States,5/10/2010,1960,1 Season(s),An intense drama about life choices.,Horror
+s00967,Movie,The Last Adventure 593,Maria Garcia,,France,7/28/2015,2002,169,A thrilling adventure about discovery.,Action
+s00968,Movie,Moonlight Dreams 28,Steven Spielberg,"Actor D, Actor A, Actor B",Australia,6/26/2010,1999,157,A romantic tale set in a distant land.,"Sci-Fi, Thriller"
+s00969,Movie,Neon Nights 1705,Maria Garcia,"Actor E, Actor A, Actor B, Actor D",United Kingdom,10/15/2020,1966,90,A family movie for all ages.,"Documentary, Comedy, Action"
+s00970,Movie,Secret Agent X 1622,Quentin Tarantino,"Actor B, Actor D, Actor E, Actor A",India,12/19/2011,1971,64,A sci-fi exploration of future technology.,"Comedy, Action, Horror"
+s00971,TV Show,Mystery Valley,Maria Garcia,"Actor C, Actor B, Actor E, Actor A",India,3/2/2015,1976,7 Season(s),A thrilling adventure about discovery.,"Drama, Action, Documentary"
+s00972,TV Show,Mystery Valley,Christopher Nolan,,United Kingdom,10/25/2020,1991,5 Season(s),A sci-fi exploration of future technology.,"Action, Documentary"
+s00973,Movie,Moonlight Dreams 966,David Lee,"Actor B, Actor E, Actor D, Actor A",Australia,5/22/2015,1976,88,A romantic tale set in a distant land.,Drama
+s00974,Movie,Lost Kingdom 198,Maria Garcia,Actor A,United States,5/8/2012,1960,85,A family movie for all ages.,"Romance, Children & Family"
+s00975,Movie,Moonlight Dreams 1601,nan,,Spain,,2009,129,A sci-fi exploration of future technology.,"Children & Family, Action, Drama"
+s00976,Movie,Future Shock 853,David Lee,,United States,4/26/2013,2019,122,A thrilling adventure about discovery.,"Children & Family, Action, Thriller"
+s00977,Movie,Ocean Mysteries 1538,Maria Garcia,,United States,,1999,91,A sci-fi exploration of future technology.,"Action, Drama"
+s00978,Movie,Wild Expedition 1081,David Lee,Actor A,United Kingdom,9/6/2020,2002,106,A family movie for all ages.,"Action, Thriller"
+s00979,Movie,Moonlight Dreams 842,Steven Spielberg,Actor D,Canada,3/5/2014,1993,75,A thrilling adventure about discovery.,"Romance, Action"
+s00980,Movie,Moonlight Dreams 1168,Maria Garcia,"Actor E, Actor A, Actor B",India,7/14/2018,2006,88,An intense drama about life choices.,Sci-Fi
+s00981,TV Show,Space Explorers,Steven Spielberg,"Actor C, Actor D, Actor B",Spain,8/2/2013,2021,6 Season(s),A heartwarming story of friendship.,"Thriller, Action, Comedy"
+s00982,Movie,Final Frontier 637,nan,"Actor A, Actor C, Actor D, Actor E",United States,1/19/2019,1977,85,A thrilling adventure about discovery.,"Thriller, Comedy, Romance"
+s00983,Movie,Secret Agent X 1110,Christopher Nolan,"Actor B, Actor E",United States,4/16/2015,1991,92,A comedy that will make you laugh.,"Romance, Comedy, Thriller"
+s00984,TV Show,Beyond Borders,John Smith,"Actor E, Actor D, Actor B, Actor C",Germany,2/2/2011,2008,3 Season(s),A heartwarming story of friendship.,"Action, Drama"
+s00985,Movie,Urban Legends 1960,David Lee,"Actor C, Actor D, Actor E, Actor B",Australia,9/14/2011,2020,77,A sci-fi exploration of future technology.,Action
+s00986,Movie,Mountain Echo 1980,John Smith,Actor D,United States,5/11/2017,2004,155,A family movie for all ages.,"Action, Children & Family, Thriller"
+s00987,Movie,Future Shock 611,Christopher Nolan,,Japan,4/15/2015,1983,91,A thrilling adventure about discovery.,"Sci-Fi, Documentary"
+s00988,Movie,Final Frontier 1855,Maria Garcia,"Actor D, Actor E, Actor A, Actor C",United Kingdom,2/24/2015,2018,104,A family movie for all ages.,Romance
+s00989,TV Show,Mystery Valley,David Lee,Actor B,Germany,8/17/2018,1969,6 Season(s),A thrilling adventure about discovery.,"Comedy, Action, Romance"
+s00990,TV Show,Space Explorers,nan,Actor B,South Korea,2/19/2018,1992,4 Season(s),A family movie for all ages.,"Action, Romance, Horror"
+s00991,Movie,Secret Agent X 277,Jane Doe,,South Korea,2/26/2017,2021,105,A comedy that will make you laugh.,"Action, Comedy"
+s00992,Movie,Broken Chains 1178,Maria Garcia,,Germany,7/12/2010,1983,96,A mystery that will keep you guessing.,"Children & Family, Action"
+s00993,Movie,Desert Winds 1902,John Smith,"Actor B, Actor D, Actor C, Actor E",United States,5/3/2014,1994,105,A heartwarming story of friendship.,Horror
+s00994,Movie,Broken Chains 214,David Lee,Actor C,Australia,3/6/2021,1969,92,A heartwarming story of friendship.,"Action, Drama, Comedy"
+s00995,Movie,Urban Legends 376,Maria Garcia,Actor A,India,,1993,105,A thrilling adventure about discovery.,Drama
+s00996,TV Show,Space Explorers,Maria Garcia,Actor E,United States,6/16/2013,1974,3 Season(s),A sci-fi exploration of future technology.,"Children & Family, Sci-Fi"
+s00997,Movie,Urban Legends 1750,Quentin Tarantino,"Actor D, Actor B",India,,1999,85,A romantic tale set in a distant land.,"Drama, Action, Romance"
+s00998,TV Show,Beyond Borders,Christopher Nolan,"Actor B, Actor C",Mexico,1/2/2013,1995,6 Season(s),A romantic tale set in a distant land.,"Drama, Documentary"
+s00999,Movie,Lost Kingdom 1947,Steven Spielberg,,South Korea,2/19/2019,1971,90,A heartwarming story of friendship.,"Thriller, Sci-Fi"
