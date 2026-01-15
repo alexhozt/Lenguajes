@@ -1,6 +1,6 @@
-// by alex
-// ingenieria civil en informatica
-// Fecha del dia siguiente
+// by alex.
+// ingenieria civil en informatica.
+// Fecha del dia siguiente.
 
 #include <stdio.h>
 
