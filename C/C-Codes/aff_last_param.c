@@ -1,3 +1,4 @@
+// code by alex
 // lo que hace el programa: escribe el ultimo parametro pasado al programa seguido de un salto de linea
 
 #include <unistd.h> // biblioteca estandar de servicios del sistema operativo POSIX, proporciona la funcion write() que se usa para escribir la salida esatandar.
