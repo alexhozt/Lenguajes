@@ -1,3 +1,7 @@
+// union code
+// code in process 
+// by alex
+
 #include <unistd.h>
 
 int	ft_strlen(char *s1)
